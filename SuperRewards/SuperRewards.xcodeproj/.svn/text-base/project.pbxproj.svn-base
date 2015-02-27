@@ -1,0 +1,345 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		28C24A6A0F96620600E74168 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28C24A690F96620600E74168 /* UIKit.framework */; };
+		28C24A6C0F96622000E74168 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28C24A6B0F96622000E74168 /* Foundation.framework */; };
+		28C24C670F966E5F00E74168 /* SRDataSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 28C24C620F966E5F00E74168 /* SRDataSource.h */; };
+		28C24C680F966E5F00E74168 /* SRGlobal.h in Headers */ = {isa = PBXBuildFile; fileRef = 28C24C630F966E5F00E74168 /* SRGlobal.h */; };
+		28C24C690F966E5F00E74168 /* SROffer.h in Headers */ = {isa = PBXBuildFile; fileRef = 28C24C640F966E5F00E74168 /* SROffer.h */; };
+		28C24C6A0F966E5F00E74168 /* SRTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 28C24C650F966E5F00E74168 /* SRTableViewController.h */; };
+		28C24C6B0F966E5F00E74168 /* SuperRewards.h in Headers */ = {isa = PBXBuildFile; fileRef = 28C24C660F966E5F00E74168 /* SuperRewards.h */; };
+		28C24C7C0F966E7000E74168 /* SRABTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 28C24C6C0F966E7000E74168 /* SRABTableViewCell.h */; };
+		28C24C7D0F966E7000E74168 /* SRABTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C24C6D0F966E7000E74168 /* SRABTableViewCell.m */; };
+		28C24C7E0F966E7000E74168 /* SRDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C24C6E0F966E7000E74168 /* SRDataSource.m */; };
+		28C24C7F0F966E7000E74168 /* SROffer.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C24C6F0F966E7000E74168 /* SROffer.m */; };
+		28C24C800F966E7000E74168 /* SROfferTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 28C24C700F966E7000E74168 /* SROfferTableViewCell.h */; };
+		28C24C810F966E7000E74168 /* SROfferTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C24C710F966E7000E74168 /* SROfferTableViewCell.m */; };
+		28C24C820F966E7000E74168 /* SROfferViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 28C24C720F966E7000E74168 /* SROfferViewController.h */; };
+		28C24C830F966E7000E74168 /* SROfferViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C24C730F966E7000E74168 /* SROfferViewController.m */; };
+		28C24C840F966E7000E74168 /* SROfferWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 28C24C740F966E7000E74168 /* SROfferWebViewController.h */; };
+		28C24C850F966E7000E74168 /* SROfferWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C24C750F966E7000E74168 /* SROfferWebViewController.m */; };
+		28C24C870F966E7000E74168 /* SRTableView.h in Headers */ = {isa = PBXBuildFile; fileRef = 28C24C770F966E7000E74168 /* SRTableView.h */; };
+		28C24C880F966E7000E74168 /* SRTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C24C780F966E7000E74168 /* SRTableView.m */; };
+		28C24C890F966E7000E74168 /* SRTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C24C790F966E7000E74168 /* SRTableViewController.m */; };
+		28C24C8A0F966E7000E74168 /* SRTableViewDataSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 28C24C7A0F966E7000E74168 /* SRTableViewDataSource.h */; };
+		28C24C8B0F966E7000E74168 /* SRTableViewDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C24C7B0F966E7000E74168 /* SRTableViewDataSource.m */; };
+		28E880460F96869200F2F38F /* SRStatusTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 28E880440F96869200F2F38F /* SRStatusTableViewCell.m */; };
+		28E880470F96869200F2F38F /* SRStatusTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 28E880450F96869200F2F38F /* SRStatusTableViewCell.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		28C24A690F96620600E74168 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		28C24A6B0F96622000E74168 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		28C24C620F966E5F00E74168 /* SRDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SRDataSource.h; path = SuperRewards/SRDataSource.h; sourceTree = "<group>"; };
+		28C24C630F966E5F00E74168 /* SRGlobal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SRGlobal.h; path = SuperRewards/SRGlobal.h; sourceTree = "<group>"; };
+		28C24C640F966E5F00E74168 /* SROffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SROffer.h; path = SuperRewards/SROffer.h; sourceTree = "<group>"; };
+		28C24C650F966E5F00E74168 /* SRTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SRTableViewController.h; path = SuperRewards/SRTableViewController.h; sourceTree = "<group>"; };
+		28C24C660F966E5F00E74168 /* SuperRewards.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SuperRewards.h; path = SuperRewards/SuperRewards.h; sourceTree = "<group>"; };
+		28C24C6C0F966E7000E74168 /* SRABTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRABTableViewCell.h; sourceTree = "<group>"; };
+		28C24C6D0F966E7000E74168 /* SRABTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRABTableViewCell.m; sourceTree = "<group>"; };
+		28C24C6E0F966E7000E74168 /* SRDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRDataSource.m; sourceTree = "<group>"; };
+		28C24C6F0F966E7000E74168 /* SROffer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SROffer.m; sourceTree = "<group>"; };
+		28C24C700F966E7000E74168 /* SROfferTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SROfferTableViewCell.h; sourceTree = "<group>"; };
+		28C24C710F966E7000E74168 /* SROfferTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SROfferTableViewCell.m; sourceTree = "<group>"; };
+		28C24C720F966E7000E74168 /* SROfferViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SROfferViewController.h; sourceTree = "<group>"; };
+		28C24C730F966E7000E74168 /* SROfferViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SROfferViewController.m; sourceTree = "<group>"; };
+		28C24C740F966E7000E74168 /* SROfferWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SROfferWebViewController.h; sourceTree = "<group>"; };
+		28C24C750F966E7000E74168 /* SROfferWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SROfferWebViewController.m; sourceTree = "<group>"; };
+		28C24C770F966E7000E74168 /* SRTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRTableView.h; sourceTree = "<group>"; };
+		28C24C780F966E7000E74168 /* SRTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRTableView.m; sourceTree = "<group>"; };
+		28C24C790F966E7000E74168 /* SRTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRTableViewController.m; sourceTree = "<group>"; };
+		28C24C7A0F966E7000E74168 /* SRTableViewDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRTableViewDataSource.h; sourceTree = "<group>"; };
+		28C24C7B0F966E7000E74168 /* SRTableViewDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRTableViewDataSource.m; sourceTree = "<group>"; };
+		28C24E1D0F96851A00E74168 /* sr_free_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sr_free_icon.png; path = images/sr_free_icon.png; sourceTree = "<group>"; };
+		28C24E1E0F96851A00E74168 /* sr_item_scroll_left_overlay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sr_item_scroll_left_overlay.png; path = images/sr_item_scroll_left_overlay.png; sourceTree = "<group>"; };
+		28C24E1F0F96851A00E74168 /* sr_item_scroll_right_overlay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sr_item_scroll_right_overlay.png; path = images/sr_item_scroll_right_overlay.png; sourceTree = "<group>"; };
+		28C24E200F96851A00E74168 /* sr_mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sr_mail.png; path = images/sr_mail.png; sourceTree = "<group>"; };
+		28C24E210F96851A00E74168 /* sr_mobile_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sr_mobile_icon.png; path = images/sr_mobile_icon.png; sourceTree = "<group>"; };
+		28C24E220F96851A00E74168 /* sr_open_in_safari.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sr_open_in_safari.png; path = images/sr_open_in_safari.png; sourceTree = "<group>"; };
+		28C24E230F96851A00E74168 /* sr_paid_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sr_paid_icon.png; path = images/sr_paid_icon.png; sourceTree = "<group>"; };
+		28C24E240F96851A00E74168 /* sr_scroll_generic_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sr_scroll_generic_button.png; path = images/sr_scroll_generic_button.png; sourceTree = "<group>"; };
+		28C24E250F96851A00E74168 /* sr_tap_to_complete_offer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sr_tap_to_complete_offer.png; path = images/sr_tap_to_complete_offer.png; sourceTree = "<group>"; };
+		28C24E260F96852A00E74168 /* SROfferView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SROfferView.xib; path = nibs/SROfferView.xib; sourceTree = "<group>"; };
+		28C24E270F96852A00E74168 /* SROfferWebView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SROfferWebView.xib; path = nibs/SROfferWebView.xib; sourceTree = "<group>"; };
+		28C24E390F9685BD00E74168 /* sr_gradient_gray_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sr_gradient_gray_bg.png; path = images/sr_gradient_gray_bg.png; sourceTree = "<group>"; };
+		28E880440F96869200F2F38F /* SRStatusTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRStatusTableViewCell.m; sourceTree = "<group>"; };
+		28E880450F96869200F2F38F /* SRStatusTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRStatusTableViewCell.h; sourceTree = "<group>"; };
+		D2AAC07E0554694100DB518D /* libsuperrewards.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libsuperrewards.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D2AAC07C0554694100DB518D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28C24A6A0F96620600E74168 /* UIKit.framework in Frameworks */,
+				28C24A6C0F96622000E74168 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		034768DFFF38A50411DB9C8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D2AAC07E0554694100DB518D /* libsuperrewards.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0867D691FE84028FC02AAC07 /* superrewards */ = {
+			isa = PBXGroup;
+			children = (
+				08FB77AEFE84172EC02AAC07 /* SuperRewards */,
+				0867D69AFE84028FC02AAC07 /* Frameworks */,
+				034768DFFF38A50411DB9C8B /* Products */,
+			);
+			name = superrewards;
+			sourceTree = "<group>";
+		};
+		0867D69AFE84028FC02AAC07 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				28C24A6B0F96622000E74168 /* Foundation.framework */,
+				28C24A690F96620600E74168 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		08FB77AEFE84172EC02AAC07 /* SuperRewards */ = {
+			isa = PBXGroup;
+			children = (
+				28C24E120F9684F100E74168 /* resources */,
+				28C24C620F966E5F00E74168 /* SRDataSource.h */,
+				28C24C630F966E5F00E74168 /* SRGlobal.h */,
+				28C24C640F966E5F00E74168 /* SROffer.h */,
+				28C24C650F966E5F00E74168 /* SRTableViewController.h */,
+				28C24C660F966E5F00E74168 /* SuperRewards.h */,
+				28C24C6C0F966E7000E74168 /* SRABTableViewCell.h */,
+				28C24C6D0F966E7000E74168 /* SRABTableViewCell.m */,
+				28C24C6E0F966E7000E74168 /* SRDataSource.m */,
+				28C24C6F0F966E7000E74168 /* SROffer.m */,
+				28C24C700F966E7000E74168 /* SROfferTableViewCell.h */,
+				28C24C710F966E7000E74168 /* SROfferTableViewCell.m */,
+				28C24C720F966E7000E74168 /* SROfferViewController.h */,
+				28C24C730F966E7000E74168 /* SROfferViewController.m */,
+				28C24C740F966E7000E74168 /* SROfferWebViewController.h */,
+				28C24C750F966E7000E74168 /* SROfferWebViewController.m */,
+				28C24C770F966E7000E74168 /* SRTableView.h */,
+				28C24C780F966E7000E74168 /* SRTableView.m */,
+				28C24C790F966E7000E74168 /* SRTableViewController.m */,
+				28C24C7A0F966E7000E74168 /* SRTableViewDataSource.h */,
+				28C24C7B0F966E7000E74168 /* SRTableViewDataSource.m */,
+				28E880440F96869200F2F38F /* SRStatusTableViewCell.m */,
+				28E880450F96869200F2F38F /* SRStatusTableViewCell.h */,
+			);
+			name = SuperRewards;
+			sourceTree = "<group>";
+		};
+		28C24E100F9684E400E74168 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				28C24E390F9685BD00E74168 /* sr_gradient_gray_bg.png */,
+				28C24E1D0F96851A00E74168 /* sr_free_icon.png */,
+				28C24E1E0F96851A00E74168 /* sr_item_scroll_left_overlay.png */,
+				28C24E1F0F96851A00E74168 /* sr_item_scroll_right_overlay.png */,
+				28C24E200F96851A00E74168 /* sr_mail.png */,
+				28C24E210F96851A00E74168 /* sr_mobile_icon.png */,
+				28C24E220F96851A00E74168 /* sr_open_in_safari.png */,
+				28C24E230F96851A00E74168 /* sr_paid_icon.png */,
+				28C24E240F96851A00E74168 /* sr_scroll_generic_button.png */,
+				28C24E250F96851A00E74168 /* sr_tap_to_complete_offer.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		28C24E110F9684ED00E74168 /* nibs */ = {
+			isa = PBXGroup;
+			children = (
+				28C24E260F96852A00E74168 /* SROfferView.xib */,
+				28C24E270F96852A00E74168 /* SROfferWebView.xib */,
+			);
+			name = nibs;
+			sourceTree = "<group>";
+		};
+		28C24E120F9684F100E74168 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				28C24E110F9684ED00E74168 /* nibs */,
+				28C24E100F9684E400E74168 /* images */,
+			);
+			name = resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D2AAC07A0554694100DB518D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28C24C670F966E5F00E74168 /* SRDataSource.h in Headers */,
+				28C24C680F966E5F00E74168 /* SRGlobal.h in Headers */,
+				28C24C690F966E5F00E74168 /* SROffer.h in Headers */,
+				28C24C6A0F966E5F00E74168 /* SRTableViewController.h in Headers */,
+				28C24C6B0F966E5F00E74168 /* SuperRewards.h in Headers */,
+				28C24C7C0F966E7000E74168 /* SRABTableViewCell.h in Headers */,
+				28C24C800F966E7000E74168 /* SROfferTableViewCell.h in Headers */,
+				28C24C820F966E7000E74168 /* SROfferViewController.h in Headers */,
+				28C24C840F966E7000E74168 /* SROfferWebViewController.h in Headers */,
+				28C24C870F966E7000E74168 /* SRTableView.h in Headers */,
+				28C24C8A0F966E7000E74168 /* SRTableViewDataSource.h in Headers */,
+				28E880470F96869200F2F38F /* SRStatusTableViewCell.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D2AAC07D0554694100DB518D /* superrewards */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "superrewards" */;
+			buildPhases = (
+				D2AAC07A0554694100DB518D /* Headers */,
+				D2AAC07B0554694100DB518D /* Sources */,
+				D2AAC07C0554694100DB518D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = superrewards;
+			productName = superrewards;
+			productReference = D2AAC07E0554694100DB518D /* libsuperrewards.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0867D690FE84028FC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "SuperRewards" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 0867D691FE84028FC02AAC07 /* superrewards */;
+			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D2AAC07D0554694100DB518D /* superrewards */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D2AAC07B0554694100DB518D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28C24C7D0F966E7000E74168 /* SRABTableViewCell.m in Sources */,
+				28C24C7E0F966E7000E74168 /* SRDataSource.m in Sources */,
+				28C24C7F0F966E7000E74168 /* SROffer.m in Sources */,
+				28C24C810F966E7000E74168 /* SROfferTableViewCell.m in Sources */,
+				28C24C830F966E7000E74168 /* SROfferViewController.m in Sources */,
+				28C24C850F966E7000E74168 /* SROfferWebViewController.m in Sources */,
+				28C24C880F966E7000E74168 /* SRTableView.m in Sources */,
+				28C24C890F966E7000E74168 /* SRTableViewController.m in Sources */,
+				28C24C8B0F966E7000E74168 /* SRTableViewDataSource.m in Sources */,
+				28E880460F96869200F2F38F /* SRStatusTableViewCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB921F08733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				HEADER_SEARCH_PATHS = .;
+				INSTALL_PATH = /usr/local/lib;
+				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_NAME = superrewards;
+				SDKROOT = "$(DEVELOPER_DIR)/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.0.sdk";
+				SYMROOT = build;
+			};
+			name = Debug;
+		};
+		1DEB922008733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = superrewards_Prefix.pch;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = superrewards;
+			};
+			name = Release;
+		};
+		1DEB922308733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = "$(DEVELOPER_DIR)/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.0.sdk";
+			};
+			name = Debug;
+		};
+		1DEB922408733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "superrewards" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB921F08733DC00010E9CD /* Debug */,
+				1DEB922008733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "SuperRewards" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB922308733DC00010E9CD /* Debug */,
+				1DEB922408733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0867D690FE84028FC02AAC07 /* Project object */;
+}

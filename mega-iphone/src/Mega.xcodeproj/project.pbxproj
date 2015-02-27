@@ -1,0 +1,609 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1020BB6F10FEB95B001A6FE5 /* MegaURLCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 1020BB6D10FEB95B001A6FE5 /* MegaURLCache.h */; };
+		1020BB7010FEB95B001A6FE5 /* MegaURLCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 1020BB6E10FEB95B001A6FE5 /* MegaURLCache.m */; };
+		2810BD770FAA946A00FA1E9B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2810BD760FAA946A00FA1E9B /* Foundation.framework */; };
+		2810BE300FAA949100FA1E9B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2810BE2F0FAA949100FA1E9B /* UIKit.framework */; };
+		2810BF700FAAB21E00FA1E9B /* AbstractRDTWithCategoriesController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF650FAAB21E00FA1E9B /* AbstractRDTWithCategoriesController.m */; };
+		2810BF710FAAB21E00FA1E9B /* AbstractRemoteCollectionStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF660FAAB21E00FA1E9B /* AbstractRemoteCollectionStore.m */; };
+		2810BF720FAAB21E00FA1E9B /* AbstractRemoteCollectionWithCategories.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF670FAAB21E00FA1E9B /* AbstractRemoteCollectionWithCategories.m */; };
+		2810BF730FAAB21E00FA1E9B /* AbstractRemoteDataController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF680FAAB21E00FA1E9B /* AbstractRemoteDataController.m */; };
+		2810BF740FAAB21E00FA1E9B /* AbstractRemoteDataTableController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF690FAAB21E00FA1E9B /* AbstractRemoteDataTableController.m */; };
+		2810BF750FAAB21E00FA1E9B /* AbstractRemoteDataTableControllerWithTabs.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF6A0FAAB21E00FA1E9B /* AbstractRemoteDataTableControllerWithTabs.m */; };
+		2810BF760FAAB21E00FA1E9B /* AbstractRestRequestedModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF6B0FAAB21E00FA1E9B /* AbstractRestRequestedModel.m */; };
+		2810BF770FAAB21E00FA1E9B /* ABTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF6C0FAAB21E00FA1E9B /* ABTableViewCell.m */; };
+		2810BF780FAAB21E00FA1E9B /* ABTableViewCellWithSingleRemoteImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF6D0FAAB21E00FA1E9B /* ABTableViewCellWithSingleRemoteImage.m */; };
+		2810BF790FAAB21E00FA1E9B /* BlinkingUILabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF6E0FAAB21E00FA1E9B /* BlinkingUILabel.m */; };
+		2810BF7A0FAAB21E00FA1E9B /* BorderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF6F0FAAB21E00FA1E9B /* BorderView.m */; };
+		2810BF7E0FAAB22A00FA1E9B /* DelayedAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF7B0FAAB22A00FA1E9B /* DelayedAction.m */; };
+		2810BF7F0FAAB22A00FA1E9B /* drawing.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF7C0FAAB22A00FA1E9B /* drawing.m */; };
+		2810BF800FAAB22A00FA1E9B /* ImageDownloadOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF7D0FAAB22A00FA1E9B /* ImageDownloadOperation.m */; };
+		2810BF840FAAB23600FA1E9B /* LoadingUIWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF810FAAB23600FA1E9B /* LoadingUIWebView.m */; };
+		2810BF850FAAB23600FA1E9B /* LoadingUIWebViewWithLocalRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF820FAAB23600FA1E9B /* LoadingUIWebViewWithLocalRequest.m */; };
+		2810BF860FAAB23600FA1E9B /* LRUCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF830FAAB23600FA1E9B /* LRUCache.m */; };
+		2810BF990FAAB24200FA1E9B /* Notifier.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF870FAAB24200FA1E9B /* Notifier.m */; };
+		2810BF9A0FAAB24200FA1E9B /* PDColoredProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF880FAAB24200FA1E9B /* PDColoredProgressView.m */; };
+		2810BF9B0FAAB24200FA1E9B /* RDCContainerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF890FAAB24200FA1E9B /* RDCContainerController.m */; };
+		2810BF9C0FAAB24200FA1E9B /* RemoteImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF8A0FAAB24200FA1E9B /* RemoteImageView.m */; };
+		2810BF9D0FAAB24200FA1E9B /* RemoteOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF8B0FAAB24200FA1E9B /* RemoteOperation.m */; };
+		2810BF9E0FAAB24200FA1E9B /* RestClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF8C0FAAB24200FA1E9B /* RestClient.m */; };
+		2810BF9F0FAAB24200FA1E9B /* RestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF8D0FAAB24200FA1E9B /* RestOperation.m */; };
+		2810BFA00FAAB24200FA1E9B /* ReusableRemoteImageStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF8E0FAAB24200FA1E9B /* ReusableRemoteImageStore.m */; };
+		2810BFA10FAAB24200FA1E9B /* ReusableRemoteImageStoreWithFileCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF8F0FAAB24200FA1E9B /* ReusableRemoteImageStoreWithFileCache.m */; };
+		2810BFA20FAAB24200FA1E9B /* ReusableRemoteObjectStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF900FAAB24200FA1E9B /* ReusableRemoteObjectStore.m */; };
+		2810BFA30FAAB24200FA1E9B /* ScrollableTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF910FAAB24200FA1E9B /* ScrollableTabBar.m */; };
+		2810BFA40FAAB24200FA1E9B /* Session.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF920FAAB24200FA1E9B /* Session.m */; };
+		2810BFA50FAAB24200FA1E9B /* TableViewWithInnerScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF930FAAB24200FA1E9B /* TableViewWithInnerScrollView.m */; };
+		2810BFA60FAAB24200FA1E9B /* TabManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF940FAAB24200FA1E9B /* TabManager.m */; };
+		2810BFA70FAAB24200FA1E9B /* UIScrollViewWithInnerScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF950FAAB24200FA1E9B /* UIScrollViewWithInnerScrollView.m */; };
+		2810BFA80FAAB24200FA1E9B /* UIViewAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF960FAAB24200FA1E9B /* UIViewAdditions.m */; };
+		2810BFA90FAAB24200FA1E9B /* UIViewControllerAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF970FAAB24200FA1E9B /* UIViewControllerAdditions.m */; };
+		2810BFAA0FAAB24200FA1E9B /* Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810BF980FAAB24200FA1E9B /* Utility.m */; };
+		2810BFCF0FAAB24F00FA1E9B /* AbstractRDTWithCategoriesController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFAB0FAAB24F00FA1E9B /* AbstractRDTWithCategoriesController.h */; };
+		2810BFD00FAAB24F00FA1E9B /* AbstractRemoteCollectionStore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFAC0FAAB24F00FA1E9B /* AbstractRemoteCollectionStore.h */; };
+		2810BFD10FAAB24F00FA1E9B /* AbstractRemoteCollectionWithCategories.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFAD0FAAB24F00FA1E9B /* AbstractRemoteCollectionWithCategories.h */; };
+		2810BFD20FAAB24F00FA1E9B /* AbstractRemoteDataController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFAE0FAAB24F00FA1E9B /* AbstractRemoteDataController.h */; };
+		2810BFD30FAAB24F00FA1E9B /* AbstractRemoteDataTableController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFAF0FAAB24F00FA1E9B /* AbstractRemoteDataTableController.h */; };
+		2810BFD40FAAB24F00FA1E9B /* AbstractRemoteDataTableControllerWithTabs.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFB00FAAB24F00FA1E9B /* AbstractRemoteDataTableControllerWithTabs.h */; };
+		2810BFD50FAAB24F00FA1E9B /* AbstractRestRequestedModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFB10FAAB24F00FA1E9B /* AbstractRestRequestedModel.h */; };
+		2810BFD60FAAB24F00FA1E9B /* ABTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFB20FAAB24F00FA1E9B /* ABTableViewCell.h */; };
+		2810BFD70FAAB24F00FA1E9B /* ABTableViewCellWithSingleRemoteImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFB30FAAB24F00FA1E9B /* ABTableViewCellWithSingleRemoteImage.h */; };
+		2810BFD80FAAB24F00FA1E9B /* BlinkingUILabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFB40FAAB24F00FA1E9B /* BlinkingUILabel.h */; };
+		2810BFD90FAAB24F00FA1E9B /* BorderView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFB50FAAB24F00FA1E9B /* BorderView.h */; };
+		2810BFDA0FAAB24F00FA1E9B /* Consts.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFB60FAAB24F00FA1E9B /* Consts.h */; };
+		2810BFDB0FAAB24F00FA1E9B /* DelayedAction.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFB70FAAB24F00FA1E9B /* DelayedAction.h */; };
+		2810BFDC0FAAB24F00FA1E9B /* ImageDownloadOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFB80FAAB24F00FA1E9B /* ImageDownloadOperation.h */; };
+		2810BFDD0FAAB24F00FA1E9B /* LoadingUIWebView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFB90FAAB24F00FA1E9B /* LoadingUIWebView.h */; };
+		2810BFDE0FAAB24F00FA1E9B /* LoadingUIWebViewWithLocalRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFBA0FAAB24F00FA1E9B /* LoadingUIWebViewWithLocalRequest.h */; };
+		2810BFDF0FAAB24F00FA1E9B /* LRUCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFBB0FAAB24F00FA1E9B /* LRUCache.h */; };
+		2810BFE00FAAB24F00FA1E9B /* MegaGlobal.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFBC0FAAB24F00FA1E9B /* MegaGlobal.h */; };
+		2810BFE10FAAB24F00FA1E9B /* Notifier.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFBD0FAAB24F00FA1E9B /* Notifier.h */; };
+		2810BFE20FAAB24F00FA1E9B /* PDColoredProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFBE0FAAB24F00FA1E9B /* PDColoredProgressView.h */; };
+		2810BFE30FAAB24F00FA1E9B /* RDCContainerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFBF0FAAB24F00FA1E9B /* RDCContainerController.h */; };
+		2810BFE40FAAB24F00FA1E9B /* RemoteImageView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFC00FAAB24F00FA1E9B /* RemoteImageView.h */; };
+		2810BFE50FAAB24F00FA1E9B /* RemoteOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFC10FAAB24F00FA1E9B /* RemoteOperation.h */; };
+		2810BFE60FAAB24F00FA1E9B /* RestClient.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFC20FAAB24F00FA1E9B /* RestClient.h */; };
+		2810BFE70FAAB24F00FA1E9B /* RestOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFC30FAAB24F00FA1E9B /* RestOperation.h */; };
+		2810BFE80FAAB24F00FA1E9B /* ReusableRemoteImageStore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFC40FAAB24F00FA1E9B /* ReusableRemoteImageStore.h */; };
+		2810BFE90FAAB24F00FA1E9B /* ReusableRemoteImageStoreWithFileCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFC50FAAB24F00FA1E9B /* ReusableRemoteImageStoreWithFileCache.h */; };
+		2810BFEA0FAAB24F00FA1E9B /* ReusableRemoteObjectStore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFC60FAAB24F00FA1E9B /* ReusableRemoteObjectStore.h */; };
+		2810BFEB0FAAB24F00FA1E9B /* ScrollableTabBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFC70FAAB24F00FA1E9B /* ScrollableTabBar.h */; };
+		2810BFEC0FAAB24F00FA1E9B /* Session.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFC80FAAB24F00FA1E9B /* Session.h */; };
+		2810BFED0FAAB24F00FA1E9B /* TableViewWithInnerScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFC90FAAB24F00FA1E9B /* TableViewWithInnerScrollView.h */; };
+		2810BFEE0FAAB24F00FA1E9B /* TabManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFCA0FAAB24F00FA1E9B /* TabManager.h */; };
+		2810BFEF0FAAB24F00FA1E9B /* UIScrollViewWithInnerScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFCB0FAAB24F00FA1E9B /* UIScrollViewWithInnerScrollView.h */; };
+		2810BFF00FAAB24F00FA1E9B /* UIViewAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFCC0FAAB24F00FA1E9B /* UIViewAdditions.h */; };
+		2810BFF10FAAB24F00FA1E9B /* UIViewControllerAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFCD0FAAB24F00FA1E9B /* UIViewControllerAdditions.h */; };
+		2810BFF20FAAB24F00FA1E9B /* Utility.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810BFCE0FAAB24F00FA1E9B /* Utility.h */; };
+		2810C0F60FAAB87C00FA1E9B /* TopLevelController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810C0F50FAAB87C00FA1E9B /* TopLevelController.h */; };
+		2810C14A0FAABA6900FA1E9B /* Mega.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810C1490FAABA6900FA1E9B /* Mega.h */; };
+		2810C3460FAACABC00FA1E9B /* MegaViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2810C3440FAACABC00FA1E9B /* MegaViewController.h */; };
+		2810C3470FAACABC00FA1E9B /* MegaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810C3450FAACABC00FA1E9B /* MegaViewController.m */; };
+		28B5B1120FC244940059C901 /* FilteredRemoteCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = 28B5B1110FC244940059C901 /* FilteredRemoteCollection.m */; };
+		28B5B1150FC244A40059C901 /* FilteredRemoteCollection.h in Headers */ = {isa = PBXBuildFile; fileRef = 28B5B1130FC244A40059C901 /* FilteredRemoteCollection.h */; };
+		28B5B1160FC244A40059C901 /* RemoteCollection.h in Headers */ = {isa = PBXBuildFile; fileRef = 28B5B1140FC244A40059C901 /* RemoteCollection.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1020BB6D10FEB95B001A6FE5 /* MegaURLCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MegaURLCache.h; path = Mega/MegaURLCache.h; sourceTree = "<group>"; };
+		1020BB6E10FEB95B001A6FE5 /* MegaURLCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MegaURLCache.m; sourceTree = "<group>"; };
+		2810BD760FAA946A00FA1E9B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		2810BE2F0FAA949100FA1E9B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2810BF650FAAB21E00FA1E9B /* AbstractRDTWithCategoriesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AbstractRDTWithCategoriesController.m; sourceTree = "<group>"; };
+		2810BF660FAAB21E00FA1E9B /* AbstractRemoteCollectionStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AbstractRemoteCollectionStore.m; sourceTree = "<group>"; };
+		2810BF670FAAB21E00FA1E9B /* AbstractRemoteCollectionWithCategories.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AbstractRemoteCollectionWithCategories.m; sourceTree = "<group>"; };
+		2810BF680FAAB21E00FA1E9B /* AbstractRemoteDataController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AbstractRemoteDataController.m; sourceTree = "<group>"; };
+		2810BF690FAAB21E00FA1E9B /* AbstractRemoteDataTableController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AbstractRemoteDataTableController.m; sourceTree = "<group>"; };
+		2810BF6A0FAAB21E00FA1E9B /* AbstractRemoteDataTableControllerWithTabs.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AbstractRemoteDataTableControllerWithTabs.m; sourceTree = "<group>"; };
+		2810BF6B0FAAB21E00FA1E9B /* AbstractRestRequestedModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AbstractRestRequestedModel.m; sourceTree = "<group>"; };
+		2810BF6C0FAAB21E00FA1E9B /* ABTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABTableViewCell.m; sourceTree = "<group>"; };
+		2810BF6D0FAAB21E00FA1E9B /* ABTableViewCellWithSingleRemoteImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABTableViewCellWithSingleRemoteImage.m; sourceTree = "<group>"; };
+		2810BF6E0FAAB21E00FA1E9B /* BlinkingUILabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BlinkingUILabel.m; sourceTree = "<group>"; };
+		2810BF6F0FAAB21E00FA1E9B /* BorderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BorderView.m; sourceTree = "<group>"; };
+		2810BF7B0FAAB22A00FA1E9B /* DelayedAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DelayedAction.m; sourceTree = "<group>"; };
+		2810BF7C0FAAB22A00FA1E9B /* drawing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = drawing.m; sourceTree = "<group>"; };
+		2810BF7D0FAAB22A00FA1E9B /* ImageDownloadOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageDownloadOperation.m; sourceTree = "<group>"; };
+		2810BF810FAAB23600FA1E9B /* LoadingUIWebView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingUIWebView.m; sourceTree = "<group>"; };
+		2810BF820FAAB23600FA1E9B /* LoadingUIWebViewWithLocalRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingUIWebViewWithLocalRequest.m; sourceTree = "<group>"; };
+		2810BF830FAAB23600FA1E9B /* LRUCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LRUCache.m; sourceTree = "<group>"; };
+		2810BF870FAAB24200FA1E9B /* Notifier.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Notifier.m; sourceTree = "<group>"; };
+		2810BF880FAAB24200FA1E9B /* PDColoredProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PDColoredProgressView.m; sourceTree = "<group>"; };
+		2810BF890FAAB24200FA1E9B /* RDCContainerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RDCContainerController.m; sourceTree = "<group>"; };
+		2810BF8A0FAAB24200FA1E9B /* RemoteImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RemoteImageView.m; sourceTree = "<group>"; };
+		2810BF8B0FAAB24200FA1E9B /* RemoteOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RemoteOperation.m; sourceTree = "<group>"; };
+		2810BF8C0FAAB24200FA1E9B /* RestClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestClient.m; sourceTree = "<group>"; };
+		2810BF8D0FAAB24200FA1E9B /* RestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestOperation.m; sourceTree = "<group>"; };
+		2810BF8E0FAAB24200FA1E9B /* ReusableRemoteImageStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReusableRemoteImageStore.m; sourceTree = "<group>"; };
+		2810BF8F0FAAB24200FA1E9B /* ReusableRemoteImageStoreWithFileCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReusableRemoteImageStoreWithFileCache.m; sourceTree = "<group>"; };
+		2810BF900FAAB24200FA1E9B /* ReusableRemoteObjectStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReusableRemoteObjectStore.m; sourceTree = "<group>"; };
+		2810BF910FAAB24200FA1E9B /* ScrollableTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScrollableTabBar.m; sourceTree = "<group>"; };
+		2810BF920FAAB24200FA1E9B /* Session.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Session.m; sourceTree = "<group>"; };
+		2810BF930FAAB24200FA1E9B /* TableViewWithInnerScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewWithInnerScrollView.m; sourceTree = "<group>"; };
+		2810BF940FAAB24200FA1E9B /* TabManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabManager.m; sourceTree = "<group>"; };
+		2810BF950FAAB24200FA1E9B /* UIScrollViewWithInnerScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIScrollViewWithInnerScrollView.m; sourceTree = "<group>"; };
+		2810BF960FAAB24200FA1E9B /* UIViewAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewAdditions.m; sourceTree = "<group>"; };
+		2810BF970FAAB24200FA1E9B /* UIViewControllerAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewControllerAdditions.m; sourceTree = "<group>"; };
+		2810BF980FAAB24200FA1E9B /* Utility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Utility.m; sourceTree = "<group>"; };
+		2810BFAB0FAAB24F00FA1E9B /* AbstractRDTWithCategoriesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AbstractRDTWithCategoriesController.h; path = Mega/AbstractRDTWithCategoriesController.h; sourceTree = "<group>"; };
+		2810BFAC0FAAB24F00FA1E9B /* AbstractRemoteCollectionStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AbstractRemoteCollectionStore.h; path = Mega/AbstractRemoteCollectionStore.h; sourceTree = "<group>"; };
+		2810BFAD0FAAB24F00FA1E9B /* AbstractRemoteCollectionWithCategories.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AbstractRemoteCollectionWithCategories.h; path = Mega/AbstractRemoteCollectionWithCategories.h; sourceTree = "<group>"; };
+		2810BFAE0FAAB24F00FA1E9B /* AbstractRemoteDataController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AbstractRemoteDataController.h; path = Mega/AbstractRemoteDataController.h; sourceTree = "<group>"; };
+		2810BFAF0FAAB24F00FA1E9B /* AbstractRemoteDataTableController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AbstractRemoteDataTableController.h; path = Mega/AbstractRemoteDataTableController.h; sourceTree = "<group>"; };
+		2810BFB00FAAB24F00FA1E9B /* AbstractRemoteDataTableControllerWithTabs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AbstractRemoteDataTableControllerWithTabs.h; path = Mega/AbstractRemoteDataTableControllerWithTabs.h; sourceTree = "<group>"; };
+		2810BFB10FAAB24F00FA1E9B /* AbstractRestRequestedModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AbstractRestRequestedModel.h; path = Mega/AbstractRestRequestedModel.h; sourceTree = "<group>"; };
+		2810BFB20FAAB24F00FA1E9B /* ABTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ABTableViewCell.h; path = Mega/ABTableViewCell.h; sourceTree = "<group>"; };
+		2810BFB30FAAB24F00FA1E9B /* ABTableViewCellWithSingleRemoteImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ABTableViewCellWithSingleRemoteImage.h; path = Mega/ABTableViewCellWithSingleRemoteImage.h; sourceTree = "<group>"; };
+		2810BFB40FAAB24F00FA1E9B /* BlinkingUILabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BlinkingUILabel.h; path = Mega/BlinkingUILabel.h; sourceTree = "<group>"; };
+		2810BFB50FAAB24F00FA1E9B /* BorderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BorderView.h; path = Mega/BorderView.h; sourceTree = "<group>"; };
+		2810BFB60FAAB24F00FA1E9B /* Consts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Consts.h; path = Mega/Consts.h; sourceTree = "<group>"; };
+		2810BFB70FAAB24F00FA1E9B /* DelayedAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DelayedAction.h; path = Mega/DelayedAction.h; sourceTree = "<group>"; };
+		2810BFB80FAAB24F00FA1E9B /* ImageDownloadOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ImageDownloadOperation.h; path = Mega/ImageDownloadOperation.h; sourceTree = "<group>"; };
+		2810BFB90FAAB24F00FA1E9B /* LoadingUIWebView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoadingUIWebView.h; path = Mega/LoadingUIWebView.h; sourceTree = "<group>"; };
+		2810BFBA0FAAB24F00FA1E9B /* LoadingUIWebViewWithLocalRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoadingUIWebViewWithLocalRequest.h; path = Mega/LoadingUIWebViewWithLocalRequest.h; sourceTree = "<group>"; };
+		2810BFBB0FAAB24F00FA1E9B /* LRUCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LRUCache.h; path = Mega/LRUCache.h; sourceTree = "<group>"; };
+		2810BFBC0FAAB24F00FA1E9B /* MegaGlobal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MegaGlobal.h; path = Mega/MegaGlobal.h; sourceTree = "<group>"; };
+		2810BFBD0FAAB24F00FA1E9B /* Notifier.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Notifier.h; path = Mega/Notifier.h; sourceTree = "<group>"; };
+		2810BFBE0FAAB24F00FA1E9B /* PDColoredProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PDColoredProgressView.h; path = Mega/PDColoredProgressView.h; sourceTree = "<group>"; };
+		2810BFBF0FAAB24F00FA1E9B /* RDCContainerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RDCContainerController.h; path = Mega/RDCContainerController.h; sourceTree = "<group>"; };
+		2810BFC00FAAB24F00FA1E9B /* RemoteImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RemoteImageView.h; path = Mega/RemoteImageView.h; sourceTree = "<group>"; };
+		2810BFC10FAAB24F00FA1E9B /* RemoteOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RemoteOperation.h; path = Mega/RemoteOperation.h; sourceTree = "<group>"; };
+		2810BFC20FAAB24F00FA1E9B /* RestClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RestClient.h; path = Mega/RestClient.h; sourceTree = "<group>"; };
+		2810BFC30FAAB24F00FA1E9B /* RestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RestOperation.h; path = Mega/RestOperation.h; sourceTree = "<group>"; };
+		2810BFC40FAAB24F00FA1E9B /* ReusableRemoteImageStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ReusableRemoteImageStore.h; path = Mega/ReusableRemoteImageStore.h; sourceTree = "<group>"; };
+		2810BFC50FAAB24F00FA1E9B /* ReusableRemoteImageStoreWithFileCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ReusableRemoteImageStoreWithFileCache.h; path = Mega/ReusableRemoteImageStoreWithFileCache.h; sourceTree = "<group>"; };
+		2810BFC60FAAB24F00FA1E9B /* ReusableRemoteObjectStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ReusableRemoteObjectStore.h; path = Mega/ReusableRemoteObjectStore.h; sourceTree = "<group>"; };
+		2810BFC70FAAB24F00FA1E9B /* ScrollableTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScrollableTabBar.h; path = Mega/ScrollableTabBar.h; sourceTree = "<group>"; };
+		2810BFC80FAAB24F00FA1E9B /* Session.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Session.h; path = Mega/Session.h; sourceTree = "<group>"; };
+		2810BFC90FAAB24F00FA1E9B /* TableViewWithInnerScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TableViewWithInnerScrollView.h; path = Mega/TableViewWithInnerScrollView.h; sourceTree = "<group>"; };
+		2810BFCA0FAAB24F00FA1E9B /* TabManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TabManager.h; path = Mega/TabManager.h; sourceTree = "<group>"; };
+		2810BFCB0FAAB24F00FA1E9B /* UIScrollViewWithInnerScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIScrollViewWithInnerScrollView.h; path = Mega/UIScrollViewWithInnerScrollView.h; sourceTree = "<group>"; };
+		2810BFCC0FAAB24F00FA1E9B /* UIViewAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIViewAdditions.h; path = Mega/UIViewAdditions.h; sourceTree = "<group>"; };
+		2810BFCD0FAAB24F00FA1E9B /* UIViewControllerAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIViewControllerAdditions.h; path = Mega/UIViewControllerAdditions.h; sourceTree = "<group>"; };
+		2810BFCE0FAAB24F00FA1E9B /* Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Utility.h; path = Mega/Utility.h; sourceTree = "<group>"; };
+		2810C0F50FAAB87C00FA1E9B /* TopLevelController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TopLevelController.h; path = Mega/TopLevelController.h; sourceTree = "<group>"; };
+		2810C1490FAABA6900FA1E9B /* Mega.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Mega.h; path = Mega/Mega.h; sourceTree = "<group>"; };
+		2810C3440FAACABC00FA1E9B /* MegaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MegaViewController.h; path = Mega/MegaViewController.h; sourceTree = "<group>"; };
+		2810C3450FAACABC00FA1E9B /* MegaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MegaViewController.m; sourceTree = "<group>"; };
+		28B5B1110FC244940059C901 /* FilteredRemoteCollection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FilteredRemoteCollection.m; sourceTree = "<group>"; };
+		28B5B1130FC244A40059C901 /* FilteredRemoteCollection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FilteredRemoteCollection.h; path = Mega/FilteredRemoteCollection.h; sourceTree = "<group>"; };
+		28B5B1140FC244A40059C901 /* RemoteCollection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RemoteCollection.h; path = Mega/RemoteCollection.h; sourceTree = "<group>"; };
+		D2AAC07E0554694100DB518D /* libMega.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMega.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D2AAC07C0554694100DB518D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2810BD770FAA946A00FA1E9B /* Foundation.framework in Frameworks */,
+				2810BE300FAA949100FA1E9B /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		034768DFFF38A50411DB9C8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D2AAC07E0554694100DB518D /* libMega.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0867D691FE84028FC02AAC07 /* Mega */ = {
+			isa = PBXGroup;
+			children = (
+				08FB77AEFE84172EC02AAC07 /* Mega */,
+				0867D69AFE84028FC02AAC07 /* Frameworks */,
+				034768DFFF38A50411DB9C8B /* Products */,
+			);
+			name = Mega;
+			sourceTree = "<group>";
+		};
+		0867D69AFE84028FC02AAC07 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2810BE2F0FAA949100FA1E9B /* UIKit.framework */,
+				2810BD760FAA946A00FA1E9B /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		08FB77AEFE84172EC02AAC07 /* Mega */ = {
+			isa = PBXGroup;
+			children = (
+				2810BFF80FAAB31800FA1E9B /* Global */,
+				2810BFF30FAAB25E00FA1E9B /* Additions */,
+				2810BFF40FAAB26900FA1E9B /* View Controllers */,
+				2810BFF50FAAB27200FA1E9B /* Views */,
+				2810BFF70FAAB2EE00FA1E9B /* Tables */,
+				2810C0440FAAB53100FA1E9B /* Data Structures */,
+				2810BFF60FAAB2AE00FA1E9B /* Network */,
+				2810C0450FAAB60A00FA1E9B /* API Helpers */,
+				2810BE330FAA94FF00FA1E9B /* resources */,
+			);
+			name = Mega;
+			sourceTree = "<group>";
+		};
+		2810BE330FAA94FF00FA1E9B /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				2810BE340FAA950600FA1E9B /* images */,
+			);
+			name = resources;
+			sourceTree = "<group>";
+		};
+		2810BE340FAA950600FA1E9B /* images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		2810BFF30FAAB25E00FA1E9B /* Additions */ = {
+			isa = PBXGroup;
+			children = (
+				2810BFCC0FAAB24F00FA1E9B /* UIViewAdditions.h */,
+				2810BF960FAAB24200FA1E9B /* UIViewAdditions.m */,
+				2810BFCD0FAAB24F00FA1E9B /* UIViewControllerAdditions.h */,
+				2810BF970FAAB24200FA1E9B /* UIViewControllerAdditions.m */,
+			);
+			name = Additions;
+			sourceTree = "<group>";
+		};
+		2810BFF40FAAB26900FA1E9B /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2810C3440FAACABC00FA1E9B /* MegaViewController.h */,
+				2810C3450FAACABC00FA1E9B /* MegaViewController.m */,
+				2810BFCA0FAAB24F00FA1E9B /* TabManager.h */,
+				2810BF940FAAB24200FA1E9B /* TabManager.m */,
+				2810C0F50FAAB87C00FA1E9B /* TopLevelController.h */,
+				2810BFAE0FAAB24F00FA1E9B /* AbstractRemoteDataController.h */,
+				2810BF680FAAB21E00FA1E9B /* AbstractRemoteDataController.m */,
+				2810BFBF0FAAB24F00FA1E9B /* RDCContainerController.h */,
+				2810BF890FAAB24200FA1E9B /* RDCContainerController.m */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		2810BFF50FAAB27200FA1E9B /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2810BFB40FAAB24F00FA1E9B /* BlinkingUILabel.h */,
+				2810BF6E0FAAB21E00FA1E9B /* BlinkingUILabel.m */,
+				2810BFB50FAAB24F00FA1E9B /* BorderView.h */,
+				2810BF6F0FAAB21E00FA1E9B /* BorderView.m */,
+				2810BFB90FAAB24F00FA1E9B /* LoadingUIWebView.h */,
+				2810BF810FAAB23600FA1E9B /* LoadingUIWebView.m */,
+				2810BFBA0FAAB24F00FA1E9B /* LoadingUIWebViewWithLocalRequest.h */,
+				2810BF820FAAB23600FA1E9B /* LoadingUIWebViewWithLocalRequest.m */,
+				2810BFBD0FAAB24F00FA1E9B /* Notifier.h */,
+				2810BF870FAAB24200FA1E9B /* Notifier.m */,
+				2810BFBE0FAAB24F00FA1E9B /* PDColoredProgressView.h */,
+				2810BF880FAAB24200FA1E9B /* PDColoredProgressView.m */,
+				2810BF7C0FAAB22A00FA1E9B /* drawing.m */,
+				2810BFC00FAAB24F00FA1E9B /* RemoteImageView.h */,
+				2810BF8A0FAAB24200FA1E9B /* RemoteImageView.m */,
+				2810BFC70FAAB24F00FA1E9B /* ScrollableTabBar.h */,
+				2810BF910FAAB24200FA1E9B /* ScrollableTabBar.m */,
+				2810BFC90FAAB24F00FA1E9B /* TableViewWithInnerScrollView.h */,
+				2810BF930FAAB24200FA1E9B /* TableViewWithInnerScrollView.m */,
+				2810BFCB0FAAB24F00FA1E9B /* UIScrollViewWithInnerScrollView.h */,
+				2810BF950FAAB24200FA1E9B /* UIScrollViewWithInnerScrollView.m */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		2810BFF60FAAB2AE00FA1E9B /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				2810BFC10FAAB24F00FA1E9B /* RemoteOperation.h */,
+				2810BF8B0FAAB24200FA1E9B /* RemoteOperation.m */,
+				2810BFB80FAAB24F00FA1E9B /* ImageDownloadOperation.h */,
+				2810BF7D0FAAB22A00FA1E9B /* ImageDownloadOperation.m */,
+				2810BFC30FAAB24F00FA1E9B /* RestOperation.h */,
+				2810BF8D0FAAB24200FA1E9B /* RestOperation.m */,
+				1020BB6D10FEB95B001A6FE5 /* MegaURLCache.h */,
+				1020BB6E10FEB95B001A6FE5 /* MegaURLCache.m */,
+			);
+			name = Network;
+			sourceTree = "<group>";
+		};
+		2810BFF70FAAB2EE00FA1E9B /* Tables */ = {
+			isa = PBXGroup;
+			children = (
+				2810BFAF0FAAB24F00FA1E9B /* AbstractRemoteDataTableController.h */,
+				2810BF690FAAB21E00FA1E9B /* AbstractRemoteDataTableController.m */,
+				2810BFAB0FAAB24F00FA1E9B /* AbstractRDTWithCategoriesController.h */,
+				2810BF650FAAB21E00FA1E9B /* AbstractRDTWithCategoriesController.m */,
+				2810BFB00FAAB24F00FA1E9B /* AbstractRemoteDataTableControllerWithTabs.h */,
+				2810BF6A0FAAB21E00FA1E9B /* AbstractRemoteDataTableControllerWithTabs.m */,
+				2810BFB20FAAB24F00FA1E9B /* ABTableViewCell.h */,
+				2810BF6C0FAAB21E00FA1E9B /* ABTableViewCell.m */,
+				2810BFB30FAAB24F00FA1E9B /* ABTableViewCellWithSingleRemoteImage.h */,
+				2810BF6D0FAAB21E00FA1E9B /* ABTableViewCellWithSingleRemoteImage.m */,
+			);
+			name = Tables;
+			sourceTree = "<group>";
+		};
+		2810BFF80FAAB31800FA1E9B /* Global */ = {
+			isa = PBXGroup;
+			children = (
+				2810C1490FAABA6900FA1E9B /* Mega.h */,
+				2810BFBC0FAAB24F00FA1E9B /* MegaGlobal.h */,
+				2810BFB60FAAB24F00FA1E9B /* Consts.h */,
+				2810BFCE0FAAB24F00FA1E9B /* Utility.h */,
+				2810BF980FAAB24200FA1E9B /* Utility.m */,
+			);
+			name = Global;
+			sourceTree = "<group>";
+		};
+		2810C0440FAAB53100FA1E9B /* Data Structures */ = {
+			isa = PBXGroup;
+			children = (
+				28B5B1130FC244A40059C901 /* FilteredRemoteCollection.h */,
+				28B5B1140FC244A40059C901 /* RemoteCollection.h */,
+				28B5B1110FC244940059C901 /* FilteredRemoteCollection.m */,
+				2810BFBB0FAAB24F00FA1E9B /* LRUCache.h */,
+				2810BF830FAAB23600FA1E9B /* LRUCache.m */,
+				2810BFAC0FAAB24F00FA1E9B /* AbstractRemoteCollectionStore.h */,
+				2810BF660FAAB21E00FA1E9B /* AbstractRemoteCollectionStore.m */,
+				2810BFAD0FAAB24F00FA1E9B /* AbstractRemoteCollectionWithCategories.h */,
+				2810BF670FAAB21E00FA1E9B /* AbstractRemoteCollectionWithCategories.m */,
+				2810BFB10FAAB24F00FA1E9B /* AbstractRestRequestedModel.h */,
+				2810BF6B0FAAB21E00FA1E9B /* AbstractRestRequestedModel.m */,
+				2810BFC40FAAB24F00FA1E9B /* ReusableRemoteImageStore.h */,
+				2810BF8E0FAAB24200FA1E9B /* ReusableRemoteImageStore.m */,
+				2810BFC50FAAB24F00FA1E9B /* ReusableRemoteImageStoreWithFileCache.h */,
+				2810BF8F0FAAB24200FA1E9B /* ReusableRemoteImageStoreWithFileCache.m */,
+				2810BFC60FAAB24F00FA1E9B /* ReusableRemoteObjectStore.h */,
+				2810BF900FAAB24200FA1E9B /* ReusableRemoteObjectStore.m */,
+				2810BFB70FAAB24F00FA1E9B /* DelayedAction.h */,
+				2810BF7B0FAAB22A00FA1E9B /* DelayedAction.m */,
+			);
+			name = "Data Structures";
+			sourceTree = "<group>";
+		};
+		2810C0450FAAB60A00FA1E9B /* API Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				2810BFC20FAAB24F00FA1E9B /* RestClient.h */,
+				2810BF8C0FAAB24200FA1E9B /* RestClient.m */,
+				2810BFC80FAAB24F00FA1E9B /* Session.h */,
+				2810BF920FAAB24200FA1E9B /* Session.m */,
+			);
+			name = "API Helpers";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D2AAC07A0554694100DB518D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2810BFCF0FAAB24F00FA1E9B /* AbstractRDTWithCategoriesController.h in Headers */,
+				2810BFD00FAAB24F00FA1E9B /* AbstractRemoteCollectionStore.h in Headers */,
+				2810BFD10FAAB24F00FA1E9B /* AbstractRemoteCollectionWithCategories.h in Headers */,
+				2810BFD20FAAB24F00FA1E9B /* AbstractRemoteDataController.h in Headers */,
+				2810BFD30FAAB24F00FA1E9B /* AbstractRemoteDataTableController.h in Headers */,
+				2810BFD40FAAB24F00FA1E9B /* AbstractRemoteDataTableControllerWithTabs.h in Headers */,
+				2810BFD50FAAB24F00FA1E9B /* AbstractRestRequestedModel.h in Headers */,
+				2810BFD60FAAB24F00FA1E9B /* ABTableViewCell.h in Headers */,
+				2810BFD70FAAB24F00FA1E9B /* ABTableViewCellWithSingleRemoteImage.h in Headers */,
+				2810BFD80FAAB24F00FA1E9B /* BlinkingUILabel.h in Headers */,
+				2810BFD90FAAB24F00FA1E9B /* BorderView.h in Headers */,
+				2810BFDA0FAAB24F00FA1E9B /* Consts.h in Headers */,
+				2810BFDB0FAAB24F00FA1E9B /* DelayedAction.h in Headers */,
+				2810BFDC0FAAB24F00FA1E9B /* ImageDownloadOperation.h in Headers */,
+				2810BFDD0FAAB24F00FA1E9B /* LoadingUIWebView.h in Headers */,
+				2810BFDE0FAAB24F00FA1E9B /* LoadingUIWebViewWithLocalRequest.h in Headers */,
+				2810BFDF0FAAB24F00FA1E9B /* LRUCache.h in Headers */,
+				2810BFE00FAAB24F00FA1E9B /* MegaGlobal.h in Headers */,
+				2810BFE10FAAB24F00FA1E9B /* Notifier.h in Headers */,
+				2810BFE20FAAB24F00FA1E9B /* PDColoredProgressView.h in Headers */,
+				2810BFE30FAAB24F00FA1E9B /* RDCContainerController.h in Headers */,
+				2810BFE40FAAB24F00FA1E9B /* RemoteImageView.h in Headers */,
+				2810BFE50FAAB24F00FA1E9B /* RemoteOperation.h in Headers */,
+				2810BFE60FAAB24F00FA1E9B /* RestClient.h in Headers */,
+				2810BFE70FAAB24F00FA1E9B /* RestOperation.h in Headers */,
+				2810BFE80FAAB24F00FA1E9B /* ReusableRemoteImageStore.h in Headers */,
+				2810BFE90FAAB24F00FA1E9B /* ReusableRemoteImageStoreWithFileCache.h in Headers */,
+				2810BFEA0FAAB24F00FA1E9B /* ReusableRemoteObjectStore.h in Headers */,
+				2810BFEB0FAAB24F00FA1E9B /* ScrollableTabBar.h in Headers */,
+				2810BFEC0FAAB24F00FA1E9B /* Session.h in Headers */,
+				2810BFED0FAAB24F00FA1E9B /* TableViewWithInnerScrollView.h in Headers */,
+				2810BFEE0FAAB24F00FA1E9B /* TabManager.h in Headers */,
+				2810BFEF0FAAB24F00FA1E9B /* UIScrollViewWithInnerScrollView.h in Headers */,
+				2810BFF00FAAB24F00FA1E9B /* UIViewAdditions.h in Headers */,
+				2810BFF10FAAB24F00FA1E9B /* UIViewControllerAdditions.h in Headers */,
+				2810BFF20FAAB24F00FA1E9B /* Utility.h in Headers */,
+				2810C0F60FAAB87C00FA1E9B /* TopLevelController.h in Headers */,
+				2810C14A0FAABA6900FA1E9B /* Mega.h in Headers */,
+				2810C3460FAACABC00FA1E9B /* MegaViewController.h in Headers */,
+				28B5B1150FC244A40059C901 /* FilteredRemoteCollection.h in Headers */,
+				28B5B1160FC244A40059C901 /* RemoteCollection.h in Headers */,
+				1020BB6F10FEB95B001A6FE5 /* MegaURLCache.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D2AAC07D0554694100DB518D /* Mega */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "Mega" */;
+			buildPhases = (
+				D2AAC07A0554694100DB518D /* Headers */,
+				D2AAC07B0554694100DB518D /* Sources */,
+				D2AAC07C0554694100DB518D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Mega;
+			productName = Mega;
+			productReference = D2AAC07E0554694100DB518D /* libMega.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0867D690FE84028FC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "Mega" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 0867D691FE84028FC02AAC07 /* Mega */;
+			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D2AAC07D0554694100DB518D /* Mega */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D2AAC07B0554694100DB518D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2810BF700FAAB21E00FA1E9B /* AbstractRDTWithCategoriesController.m in Sources */,
+				2810BF710FAAB21E00FA1E9B /* AbstractRemoteCollectionStore.m in Sources */,
+				2810BF720FAAB21E00FA1E9B /* AbstractRemoteCollectionWithCategories.m in Sources */,
+				2810BF730FAAB21E00FA1E9B /* AbstractRemoteDataController.m in Sources */,
+				2810BF740FAAB21E00FA1E9B /* AbstractRemoteDataTableController.m in Sources */,
+				2810BF750FAAB21E00FA1E9B /* AbstractRemoteDataTableControllerWithTabs.m in Sources */,
+				2810BF760FAAB21E00FA1E9B /* AbstractRestRequestedModel.m in Sources */,
+				2810BF770FAAB21E00FA1E9B /* ABTableViewCell.m in Sources */,
+				2810BF780FAAB21E00FA1E9B /* ABTableViewCellWithSingleRemoteImage.m in Sources */,
+				2810BF790FAAB21E00FA1E9B /* BlinkingUILabel.m in Sources */,
+				2810BF7A0FAAB21E00FA1E9B /* BorderView.m in Sources */,
+				2810BF7E0FAAB22A00FA1E9B /* DelayedAction.m in Sources */,
+				2810BF7F0FAAB22A00FA1E9B /* drawing.m in Sources */,
+				2810BF800FAAB22A00FA1E9B /* ImageDownloadOperation.m in Sources */,
+				2810BF840FAAB23600FA1E9B /* LoadingUIWebView.m in Sources */,
+				2810BF850FAAB23600FA1E9B /* LoadingUIWebViewWithLocalRequest.m in Sources */,
+				2810BF860FAAB23600FA1E9B /* LRUCache.m in Sources */,
+				2810BF990FAAB24200FA1E9B /* Notifier.m in Sources */,
+				2810BF9A0FAAB24200FA1E9B /* PDColoredProgressView.m in Sources */,
+				2810BF9B0FAAB24200FA1E9B /* RDCContainerController.m in Sources */,
+				2810BF9C0FAAB24200FA1E9B /* RemoteImageView.m in Sources */,
+				2810BF9D0FAAB24200FA1E9B /* RemoteOperation.m in Sources */,
+				2810BF9E0FAAB24200FA1E9B /* RestClient.m in Sources */,
+				2810BF9F0FAAB24200FA1E9B /* RestOperation.m in Sources */,
+				2810BFA00FAAB24200FA1E9B /* ReusableRemoteImageStore.m in Sources */,
+				2810BFA10FAAB24200FA1E9B /* ReusableRemoteImageStoreWithFileCache.m in Sources */,
+				2810BFA20FAAB24200FA1E9B /* ReusableRemoteObjectStore.m in Sources */,
+				2810BFA30FAAB24200FA1E9B /* ScrollableTabBar.m in Sources */,
+				2810BFA40FAAB24200FA1E9B /* Session.m in Sources */,
+				2810BFA50FAAB24200FA1E9B /* TableViewWithInnerScrollView.m in Sources */,
+				2810BFA60FAAB24200FA1E9B /* TabManager.m in Sources */,
+				2810BFA70FAAB24200FA1E9B /* UIScrollViewWithInnerScrollView.m in Sources */,
+				2810BFA80FAAB24200FA1E9B /* UIViewAdditions.m in Sources */,
+				2810BFA90FAAB24200FA1E9B /* UIViewControllerAdditions.m in Sources */,
+				2810BFAA0FAAB24200FA1E9B /* Utility.m in Sources */,
+				2810C3470FAACABC00FA1E9B /* MegaViewController.m in Sources */,
+				28B5B1120FC244940059C901 /* FilteredRemoteCollection.m in Sources */,
+				1020BB7010FEB95B001A6FE5 /* MegaURLCache.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB921F08733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "";
+				INSTALL_PATH = /usr/local/lib;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = Mega;
+				SDKROOT = "$(DEVELOPER_DIR)/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.0.sdk";
+			};
+			name = Debug;
+		};
+		1DEB922008733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Mega_Prefix.pch;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = Mega;
+			};
+			name = Release;
+		};
+		1DEB922308733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = "$(DEVELOPER_DIR)/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.0.sdk";
+			};
+			name = Debug;
+		};
+		1DEB922408733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = "$(DEVELOPER_DIR)/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.0.sdk";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "Mega" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB921F08733DC00010E9CD /* Debug */,
+				1DEB922008733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "Mega" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB922308733DC00010E9CD /* Debug */,
+				1DEB922408733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0867D690FE84028FC02AAC07 /* Project object */;
+}

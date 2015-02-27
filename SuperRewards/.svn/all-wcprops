@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/8/trunk/src
+END
+SRABTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/SRABTableViewCell.h
+END
+SRStatusTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/SRStatusTableViewCell.h
+END
+SRTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7/trunk/src/SRTableView.m
+END
+SRABTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/6/trunk/src/SRABTableViewCell.m
+END
+SRTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5/trunk/src/SRTableViewController.m
+END
+SRStatusTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/SRStatusTableViewCell.m
+END
+SRTableViewDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/SRTableViewDataSource.h
+END
+SROfferWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/SROfferWebViewController.h
+END
+SRDataSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/src/SRDataSource.m
+END
+SROfferViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/SROfferViewController.h
+END
+SRTableViewDataSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/SRTableViewDataSource.m
+END
+SROfferWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/SROfferWebViewController.m
+END
+SROfferTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/SROfferTableViewCell.h
+END
+SROfferViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/SROfferViewController.m
+END
+SROffer.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/src/SROffer.m
+END
+SROfferTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/SROfferTableViewCell.m
+END
+SRTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/src/SRTableView.h
+END

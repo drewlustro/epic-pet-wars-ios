@@ -12,10 +12,10 @@
 #import <Foundation/Foundation.h>
 #import "Session.h"
 #import "FBConnect/FBConnect.h"
-#import "NGPlatform.h"
+//#import "NGPlatform.h"
 
 @class ProtagonistAnimal, ShopEquipmentSet, AchievementRemoteCollection, InviteRemoteCollection, FacebookUserRemoteCollection, AbstractAnimalRemoteCollectionStore;
-@interface BRSession : Session <FBSessionDelegate, RestResponseDelegate, NGPlatformDelegate> {
+@interface BRSession : Session <FBSessionDelegate, RestResponseDelegate> {
     ProtagonistAnimal *protagonistAnimal;
 	ShopEquipmentSet *shopItems;
 	AchievementRemoteCollection *availableAchievements;

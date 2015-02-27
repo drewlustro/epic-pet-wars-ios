@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/SuperRewards
+END
+SRTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/SuperRewards/SRTableViewController.h
+END
+SRDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/SuperRewards/SRDataSource.h
+END
+SRGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/SuperRewards/SRGlobal.h
+END
+SROffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/SuperRewards/SROffer.h
+END
+SuperRewards.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/SuperRewards/SuperRewards.h
+END

@@ -306,11 +306,11 @@ static BRSession *sharedManager = nil;
 	_PPPlatformOAuthClientKey = [key copy];
 	_PPPlatformOAuthClientSecret = [secret copy];
 
-	if (!_hasPPLoaded && _PPPlatformOAuthClientKey != nil && _PPPlatformOAuthClientSecret != nil) {
-		[NGPlatform sharedPlatform].delegate = self;	
-		[[NGPlatform sharedPlatform] launch];				
-		_hasPPLoaded = YES;
-	}	
+//	if (!_hasPPLoaded && _PPPlatformOAuthClientKey != nil && _PPPlatformOAuthClientSecret != nil) {
+//		[NGPlatform sharedPlatform].delegate = self;	
+//		[[NGPlatform sharedPlatform] launch];				
+//		_hasPPLoaded = YES;
+//	}	
 }
 
 #pragma mark NGPlatformDelegate

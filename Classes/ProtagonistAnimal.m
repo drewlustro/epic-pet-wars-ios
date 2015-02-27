@@ -33,6 +33,7 @@
 #import "ShopEquipmentSet.h"
 #import "ProtagonistAnimalItemManager.h"
 #import "BRDialog.h"
+#import "FBStreamDialog.h"
 
 @implementation ProtagonistAnimal
 

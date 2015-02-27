@@ -10,70 +10,31 @@
 	<string>battleroyale</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>62FA7670-A07B-4EF6-86AA-1F2D0093C09D</key>
-		<string>https://redbull1.miraphonic.com/svn/battleroyale_iphone</string>
-		<key>B7936367-FC0D-4B18-8172-919B174EECE3</key>
-		<string>http://superrewards-iphone-sdk.googlecode.com/svn/trunk</string>
-		<key>FFAE73C2-0434-4FF4-A547-4D8AC6947BFC</key>
-		<string>https://redbull1.miraphonic.com/svn/mega-iphone</string>
+		<key>f3fcb037-529c-48c4-88d1-98776c282256++9942</key>
+		<string>github.com:drewlustro/epic-pet-wars-ios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>trunk/battleroyale.xcodeproj/project.xcworkspace</string>
+	<string>battleroyale.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>62FA7670-A07B-4EF6-86AA-1F2D0093C09D</key>
-		<string>../../..</string>
-		<key>B7936367-FC0D-4B18-8172-919B174EECE3</key>
-		<string>../../../../superrewards-iphone-sdk</string>
-		<key>FFAE73C2-0434-4FF4-A547-4D8AC6947BFC</key>
-		<string>../../../../mega-iphone</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>62FA7670-A07B-4EF6-86AA-1F2D0093C09D</key>
-		<string>https://redbull1.miraphonic.com/svn</string>
-		<key>B7936367-FC0D-4B18-8172-919B174EECE3</key>
-		<string>http://superrewards-iphone-sdk.googlecode.com/svn</string>
-		<key>FFAE73C2-0434-4FF4-A547-4D8AC6947BFC</key>
-		<string>https://redbull1.miraphonic.com/svn</string>
+		<key>f3fcb037-529c-48c4-88d1-98776c282256++9942</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://redbull1.miraphonic.com/svn/battleroyale_iphone/trunk/battleroyale.xcodeproj</string>
+	<string>github.com:drewlustro/epic-pet-wars-ios.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>62FA7670-A07B-4EF6-86AA-1F2D0093C09D</string>
+	<string>f3fcb037-529c-48c4-88d1-98776c282256++9942</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>FFAE73C2-0434-4FF4-A547-4D8AC6947BFC</string>
+			<string>f3fcb037-529c-48c4-88d1-98776c282256++9942</string>
 			<key>IDESourceControlWCCName</key>
-			<string>mega-iphone</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>62FA7670-A07B-4EF6-86AA-1F2D0093C09D</string>
-			<key>IDESourceControlWCCName</key>
-			<string>petwars-iphone</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
-			<string>branches</string>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
-			<string>tags</string>
-			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
 			<string>trunk</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B7936367-FC0D-4B18-8172-919B174EECE3</string>
-			<key>IDESourceControlWCCName</key>
-			<string>superrewards-iphone-sdk</string>
 		</dict>
 	</array>
 </dict>
