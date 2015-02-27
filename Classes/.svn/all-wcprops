@@ -1,0 +1,1997 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5372/battleroyale_iphone/trunk/Classes
+END
+HomeActionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/HomeActionViewController.m
+END
+ShopItemTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/627/battleroyale_iphone/trunk/Classes/ShopItemTableViewCell.h
+END
+GrowPosseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2632/battleroyale_iphone/trunk/Classes/GrowPosseViewController.m
+END
+ShopItemTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2578/battleroyale_iphone/trunk/Classes/ShopItemTableViewCell.m
+END
+EarnedAchievementsTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1194/battleroyale_iphone/trunk/Classes/EarnedAchievementsTableViewController.h
+END
+ShopItemTableViewContainerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/812/battleroyale_iphone/trunk/Classes/ShopItemTableViewContainerController.h
+END
+EarnedAchievementsTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1194/battleroyale_iphone/trunk/Classes/EarnedAchievementsTableViewController.m
+END
+BattleListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1145/battleroyale_iphone/trunk/Classes/BattleListViewController.h
+END
+ShopItemTableViewContainerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/816/battleroyale_iphone/trunk/Classes/ShopItemTableViewContainerController.m
+END
+BattleListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1467/battleroyale_iphone/trunk/Classes/BattleListViewController.m
+END
+NewCommentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/NewCommentViewController.h
+END
+PostNewAccountViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/PostNewAccountViewController.h
+END
+CreateAccountViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2559/battleroyale_iphone/trunk/Classes/CreateAccountViewController.h
+END
+NewCommentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2611/battleroyale_iphone/trunk/Classes/NewCommentViewController.m
+END
+PostNewAccountViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4750/battleroyale_iphone/trunk/Classes/PostNewAccountViewController.m
+END
+CreateAccountViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2559/battleroyale_iphone/trunk/Classes/CreateAccountViewController.m
+END
+BattleMasterViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3532/battleroyale_iphone/trunk/Classes/BattleMasterViewController.h
+END
+NewsFeedRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/178/battleroyale_iphone/trunk/Classes/NewsFeedRemoteCollection.h
+END
+BattleMasterViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BattleMasterViewController.m
+END
+FacebookFriendsTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2613/battleroyale_iphone/trunk/Classes/FacebookFriendsTableViewController.h
+END
+NewsFeedRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/806/battleroyale_iphone/trunk/Classes/NewsFeedRemoteCollection.m
+END
+Invite.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/377/battleroyale_iphone/trunk/Classes/Invite.h
+END
+FacebookFriendsTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2613/battleroyale_iphone/trunk/Classes/FacebookFriendsTableViewController.m
+END
+Invite.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/377/battleroyale_iphone/trunk/Classes/Invite.m
+END
+CommentTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1268/battleroyale_iphone/trunk/Classes/CommentTableViewController.h
+END
+CommentTableViewContainerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/CommentTableViewContainerController.h
+END
+DoubleEquipItemDetailWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/DoubleEquipItemDetailWebViewController.h
+END
+CommentTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/CommentTableViewController.m
+END
+CommentTableViewContainerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/CommentTableViewContainerController.m
+END
+DoubleEquipItemDetailWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/DoubleEquipItemDetailWebViewController.m
+END
+SoundManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1707/battleroyale_iphone/trunk/Classes/SoundManager.h
+END
+LeveledUpViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1380/battleroyale_iphone/trunk/Classes/LeveledUpViewController.h
+END
+SoundManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1707/battleroyale_iphone/trunk/Classes/SoundManager.m
+END
+LeveledUpViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1467/battleroyale_iphone/trunk/Classes/LeveledUpViewController.m
+END
+BasicTopLevelViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/BasicTopLevelViewController.h
+END
+BattleItemTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/823/battleroyale_iphone/trunk/Classes/BattleItemTableViewCell.h
+END
+NewsFeedViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1089/battleroyale_iphone/trunk/Classes/NewsFeedViewController.h
+END
+BasicTopLevelViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2642/battleroyale_iphone/trunk/Classes/BasicTopLevelViewController.m
+END
+PosseHelpViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2581/battleroyale_iphone/trunk/Classes/PosseHelpViewController.h
+END
+BattleItemTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2587/battleroyale_iphone/trunk/Classes/BattleItemTableViewCell.m
+END
+OwnedItemTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/816/battleroyale_iphone/trunk/Classes/OwnedItemTableViewController.h
+END
+NewsFeedViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/NewsFeedViewController.m
+END
+RewardOffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/687/battleroyale_iphone/trunk/Classes/RewardOffer.h
+END
+PosseHelpViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/PosseHelpViewController.m
+END
+OwnedItemTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1857/battleroyale_iphone/trunk/Classes/OwnedItemTableViewController.m
+END
+JobWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/JobWebViewController.h
+END
+FacebookUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/377/battleroyale_iphone/trunk/Classes/FacebookUser.h
+END
+BattleResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BattleResult.h
+END
+RewardOffer.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/687/battleroyale_iphone/trunk/Classes/RewardOffer.m
+END
+ActionResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ActionResult.h
+END
+JobWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/JobWebViewController.m
+END
+FacebookUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/377/battleroyale_iphone/trunk/Classes/FacebookUser.m
+END
+Bulletin.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1268/battleroyale_iphone/trunk/Classes/Bulletin.h
+END
+DoubleEquipItemDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/240/battleroyale_iphone/trunk/Classes/DoubleEquipItemDetailViewController.h
+END
+BattleResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BattleResult.m
+END
+ActionResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ActionResult.m
+END
+Bulletin.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2670/battleroyale_iphone/trunk/Classes/Bulletin.m
+END
+DoubleEquipItemDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/849/battleroyale_iphone/trunk/Classes/DoubleEquipItemDetailViewController.m
+END
+BRGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5372/battleroyale_iphone/trunk/Classes/BRGlobal.h
+END
+CommentRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/390/battleroyale_iphone/trunk/Classes/CommentRemoteCollection.h
+END
+AnimalAnimationUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/600/battleroyale_iphone/trunk/Classes/AnimalAnimationUIView.h
+END
+CommentRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1268/battleroyale_iphone/trunk/Classes/CommentRemoteCollection.m
+END
+AnimalAnimationUIView.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/709/battleroyale_iphone/trunk/Classes/AnimalAnimationUIView.m
+END
+AnimalType.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/833/battleroyale_iphone/trunk/Classes/AnimalType.h
+END
+Challenger.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/591/battleroyale_iphone/trunk/Classes/Challenger.h
+END
+OwnedItemTableViewContainerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/816/battleroyale_iphone/trunk/Classes/OwnedItemTableViewContainerController.h
+END
+AnimalType.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2670/battleroyale_iphone/trunk/Classes/AnimalType.m
+END
+Challenger.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/701/battleroyale_iphone/trunk/Classes/Challenger.m
+END
+BattleResultViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/BattleResultViewController.h
+END
+OwnedItemTableViewContainerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/OwnedItemTableViewContainerController.m
+END
+PosseAnimalTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/362/battleroyale_iphone/trunk/Classes/PosseAnimalTableViewCell.h
+END
+BattleResultViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2642/battleroyale_iphone/trunk/Classes/BattleResultViewController.m
+END
+EarnedAchievementContainerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/EarnedAchievementContainerController.h
+END
+PosseAnimalTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1268/battleroyale_iphone/trunk/Classes/PosseAnimalTableViewCell.m
+END
+EarnedAchievementContainerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/EarnedAchievementContainerController.m
+END
+SingleEquipItemDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/250/battleroyale_iphone/trunk/Classes/SingleEquipItemDetailViewController.h
+END
+RedeemCodeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/RedeemCodeViewController.h
+END
+InviteOptionsViewController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2627/battleroyale_iphone/trunk/Classes/InviteOptionsViewController.mm
+END
+BRMegaViewControllerAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1467/battleroyale_iphone/trunk/Classes/BRMegaViewControllerAdditions.h
+END
+SingleEquipItemDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/849/battleroyale_iphone/trunk/Classes/SingleEquipItemDetailViewController.m
+END
+InvestmentItemDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/825/battleroyale_iphone/trunk/Classes/InvestmentItemDetailViewController.h
+END
+GameUpdatesViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/GameUpdatesViewController.h
+END
+RedeemCodeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2611/battleroyale_iphone/trunk/Classes/RedeemCodeViewController.m
+END
+PosseTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/337/battleroyale_iphone/trunk/Classes/PosseTableViewController.h
+END
+BRMegaViewControllerAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BRMegaViewControllerAdditions.m
+END
+ABTableViewCellWithFileImageStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/ABTableViewCellWithFileImageStore.h
+END
+InvestmentItemDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/826/battleroyale_iphone/trunk/Classes/InvestmentItemDetailViewController.m
+END
+GameUpdatesViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1194/battleroyale_iphone/trunk/Classes/GameUpdatesViewController.m
+END
+PosseTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/PosseTableViewController.m
+END
+ABTableViewCellWithFileImageStore.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/ABTableViewCellWithFileImageStore.m
+END
+TwitterOAuthLinkerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2553/battleroyale_iphone/trunk/Classes/TwitterOAuthLinkerViewController.h
+END
+Job.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2613/battleroyale_iphone/trunk/Classes/Job.h
+END
+TwitterOAuthLinkerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/TwitterOAuthLinkerViewController.m
+END
+TopAnimalsTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1040/battleroyale_iphone/trunk/Classes/TopAnimalsTableViewController.h
+END
+NewsfeedItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/394/battleroyale_iphone/trunk/Classes/NewsfeedItem.h
+END
+Job.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2613/battleroyale_iphone/trunk/Classes/Job.m
+END
+BRDialogWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BRDialogWebViewController.h
+END
+InitialLoginViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4750/battleroyale_iphone/trunk/Classes/InitialLoginViewController.h
+END
+TopAnimalsTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/TopAnimalsTableViewController.m
+END
+NewsfeedItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/414/battleroyale_iphone/trunk/Classes/NewsfeedItem.m
+END
+BRDialogWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BRDialogWebViewController.m
+END
+InviteRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/327/battleroyale_iphone/trunk/Classes/InviteRemoteCollection.h
+END
+InitialLoginViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4750/battleroyale_iphone/trunk/Classes/InitialLoginViewController.m
+END
+InviteRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1590/battleroyale_iphone/trunk/Classes/InviteRemoteCollection.m
+END
+AchievementTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/818/battleroyale_iphone/trunk/Classes/AchievementTableViewCell.h
+END
+ProfileWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ProfileWebViewController.h
+END
+SingleUseItemDetailWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/SingleUseItemDetailWebViewController.h
+END
+Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/Item.h
+END
+BattleWonViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1046/battleroyale_iphone/trunk/Classes/BattleWonViewController.h
+END
+AchievementTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/820/battleroyale_iphone/trunk/Classes/AchievementTableViewCell.m
+END
+ProfileWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ProfileWebViewController.m
+END
+SingleUseItemDetailWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/SingleUseItemDetailWebViewController.m
+END
+Item.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/Item.m
+END
+BattleWonViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1380/battleroyale_iphone/trunk/Classes/BattleWonViewController.m
+END
+JobViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2613/battleroyale_iphone/trunk/Classes/JobViewController.h
+END
+JobViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/JobViewController.m
+END
+HUDViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2642/battleroyale_iphone/trunk/Classes/HUDViewController.h
+END
+OwnedEquipmentSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/OwnedEquipmentSet.h
+END
+TreasureChestViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/TreasureChestViewController.h
+END
+HUDViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/HUDViewController.m
+END
+BattleItemsTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2587/battleroyale_iphone/trunk/Classes/BattleItemsTableViewController.h
+END
+OwnedEquipmentSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/OwnedEquipmentSet.m
+END
+TreasureChestViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/TreasureChestViewController.m
+END
+TopLevelWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/TopLevelWebViewController.h
+END
+BattleItemsTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5372/battleroyale_iphone/trunk/Classes/BattleItemsTableViewController.m
+END
+InviteOptionTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/620/battleroyale_iphone/trunk/Classes/InviteOptionTableViewCell.h
+END
+TopLevelWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/TopLevelWebViewController.m
+END
+OwnedItemTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/627/battleroyale_iphone/trunk/Classes/OwnedItemTableViewCell.h
+END
+SingleUseItemDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/250/battleroyale_iphone/trunk/Classes/SingleUseItemDetailViewController.h
+END
+BRAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4750/battleroyale_iphone/trunk/Classes/BRAppDelegate.h
+END
+InviteOptionTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2587/battleroyale_iphone/trunk/Classes/InviteOptionTableViewCell.m
+END
+ProfileViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1458/battleroyale_iphone/trunk/Classes/ProfileViewController.h
+END
+FacebookUserRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/373/battleroyale_iphone/trunk/Classes/FacebookUserRemoteCollection.h
+END
+OwnedItemTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/OwnedItemTableViewCell.m
+END
+PosseAnimalRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/649/battleroyale_iphone/trunk/Classes/PosseAnimalRemoteCollection.h
+END
+BRAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4750/battleroyale_iphone/trunk/Classes/BRAppDelegate.m
+END
+ProfileViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2618/battleroyale_iphone/trunk/Classes/ProfileViewController.m
+END
+SingleUseItemDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/SingleUseItemDetailViewController.m
+END
+FacebookUserRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/373/battleroyale_iphone/trunk/Classes/FacebookUserRemoteCollection.m
+END
+BulletinRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1268/battleroyale_iphone/trunk/Classes/BulletinRemoteCollection.h
+END
+NeedsEnergyViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1380/battleroyale_iphone/trunk/Classes/NeedsEnergyViewController.h
+END
+PosseAnimalRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1268/battleroyale_iphone/trunk/Classes/PosseAnimalRemoteCollection.m
+END
+BulletinRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1268/battleroyale_iphone/trunk/Classes/BulletinRemoteCollection.m
+END
+NeedsEnergyViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2610/battleroyale_iphone/trunk/Classes/NeedsEnergyViewController.m
+END
+AnimalTypeSelectionController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/140/battleroyale_iphone/trunk/Classes/AnimalTypeSelectionController.h
+END
+LoadingOverlayViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/LoadingOverlayViewController.h
+END
+AnimalTypeSelectionController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1250/battleroyale_iphone/trunk/Classes/AnimalTypeSelectionController.m
+END
+SellAmountViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/SellAmountViewController.h
+END
+LoadingOverlayViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/battleroyale_iphone/trunk/Classes/LoadingOverlayViewController.m
+END
+BRTabManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BRTabManager.h
+END
+SellAmountViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/SellAmountViewController.m
+END
+BRTabManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BRTabManager.m
+END
+ItemWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemWebViewController.h
+END
+Contact.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/707/battleroyale_iphone/trunk/Classes/Contact.h
+END
+AnimalTypeRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/140/battleroyale_iphone/trunk/Classes/AnimalTypeRemoteCollection.h
+END
+ChallengerRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/266/battleroyale_iphone/trunk/Classes/ChallengerRemoteCollection.h
+END
+ProfileWithHudViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1216/battleroyale_iphone/trunk/Classes/ProfileWithHudViewController.h
+END
+TopAnimalsRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1197/battleroyale_iphone/trunk/Classes/TopAnimalsRemoteCollection.h
+END
+ItemWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemWebViewController.m
+END
+Contact.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/711/battleroyale_iphone/trunk/Classes/Contact.m
+END
+AnimalTypeRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/252/battleroyale_iphone/trunk/Classes/AnimalTypeRemoteCollection.m
+END
+ChallengerRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/266/battleroyale_iphone/trunk/Classes/ChallengerRemoteCollection.m
+END
+ProfileWithHudViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4169/battleroyale_iphone/trunk/Classes/ProfileWithHudViewController.m
+END
+TopAnimalsRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1197/battleroyale_iphone/trunk/Classes/TopAnimalsRemoteCollection.m
+END
+ProtagonistAnimalItemManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ProtagonistAnimalItemManager.h
+END
+ItemTableViewContainerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/ItemTableViewContainerController.h
+END
+ProtagonistAnimalItemManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ProtagonistAnimalItemManager.m
+END
+ItemTableViewContainerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2642/battleroyale_iphone/trunk/Classes/ItemTableViewContainerController.m
+END
+SingleEquipItemDetailWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/SingleEquipItemDetailWebViewController.h
+END
+SingleEquipItemDetailWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/SingleEquipItemDetailWebViewController.m
+END
+EarnedAchievementRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/383/battleroyale_iphone/trunk/Classes/EarnedAchievementRemoteCollection.h
+END
+BRWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BRWebViewController.h
+END
+JobRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/252/battleroyale_iphone/trunk/Classes/JobRemoteCollection.h
+END
+EarnedAchievementRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/383/battleroyale_iphone/trunk/Classes/EarnedAchievementRemoteCollection.m
+END
+BRWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BRWebViewController.m
+END
+JobRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/256/battleroyale_iphone/trunk/Classes/JobRemoteCollection.m
+END
+JobTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/616/battleroyale_iphone/trunk/Classes/JobTableViewCell.h
+END
+JobTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1187/battleroyale_iphone/trunk/Classes/JobTableViewCell.m
+END
+NewsFeedItemTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/818/battleroyale_iphone/trunk/Classes/NewsFeedItemTableViewCell.h
+END
+OwnedItemRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/849/battleroyale_iphone/trunk/Classes/OwnedItemRemoteCollection.h
+END
+FacebookFriendsContainerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1089/battleroyale_iphone/trunk/Classes/FacebookFriendsContainerViewController.h
+END
+ItemRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemRemoteCollection.h
+END
+HomeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/604/battleroyale_iphone/trunk/Classes/HomeViewController.h
+END
+NewsFeedItemTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/820/battleroyale_iphone/trunk/Classes/NewsFeedItemTableViewCell.m
+END
+InvitesTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/628/battleroyale_iphone/trunk/Classes/InvitesTableViewController.h
+END
+OwnedItemRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1427/battleroyale_iphone/trunk/Classes/OwnedItemRemoteCollection.m
+END
+FacebookFriendsContainerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2632/battleroyale_iphone/trunk/Classes/FacebookFriendsContainerViewController.m
+END
+ItemRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemRemoteCollection.m
+END
+HomeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1537/battleroyale_iphone/trunk/Classes/HomeViewController.m
+END
+InvitesTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/754/battleroyale_iphone/trunk/Classes/InvitesTableViewController.m
+END
+SettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/SettingsViewController.h
+END
+InviteTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/818/battleroyale_iphone/trunk/Classes/InviteTableViewCell.h
+END
+SettingsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1439/battleroyale_iphone/trunk/Classes/SettingsViewController.m
+END
+InviteTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/820/battleroyale_iphone/trunk/Classes/InviteTableViewCell.m
+END
+ChallengerTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/614/battleroyale_iphone/trunk/Classes/ChallengerTableViewCell.h
+END
+TwitterFriendInviteViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2598/battleroyale_iphone/trunk/Classes/TwitterFriendInviteViewController.h
+END
+UserAnimalsRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/362/battleroyale_iphone/trunk/Classes/UserAnimalsRemoteCollection.h
+END
+ChallengerTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/820/battleroyale_iphone/trunk/Classes/ChallengerTableViewCell.m
+END
+TwitterFriendInviteViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/TwitterFriendInviteViewController.m
+END
+HUDComaViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2642/battleroyale_iphone/trunk/Classes/HUDComaViewController.h
+END
+UserAnimalsRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1068/battleroyale_iphone/trunk/Classes/UserAnimalsRemoteCollection.m
+END
+ItemDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/ItemDetailViewController.h
+END
+ShopItemRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/817/battleroyale_iphone/trunk/Classes/ShopItemRemoteCollection.h
+END
+ItemAmountViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemAmountViewController.h
+END
+HUDComaViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2642/battleroyale_iphone/trunk/Classes/HUDComaViewController.m
+END
+ItemDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemDetailViewController.m
+END
+ShopItemRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ShopItemRemoteCollection.m
+END
+ItemAmountViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemAmountViewController.m
+END
+NewAnimalSetupViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3554/battleroyale_iphone/trunk/Classes/NewAnimalSetupViewController.h
+END
+FacebookBroadcastViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2613/battleroyale_iphone/trunk/Classes/FacebookBroadcastViewController.h
+END
+MutableEquipmentSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5372/battleroyale_iphone/trunk/Classes/MutableEquipmentSet.h
+END
+ShopItemTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/813/battleroyale_iphone/trunk/Classes/ShopItemTableViewController.h
+END
+NewAnimalSetupViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3554/battleroyale_iphone/trunk/Classes/NewAnimalSetupViewController.m
+END
+FacebookBroadcastViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/FacebookBroadcastViewController.m
+END
+MutableEquipmentSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5372/battleroyale_iphone/trunk/Classes/MutableEquipmentSet.m
+END
+ShopItemTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1857/battleroyale_iphone/trunk/Classes/ShopItemTableViewController.m
+END
+ItemReceivedViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1380/battleroyale_iphone/trunk/Classes/ItemReceivedViewController.h
+END
+ResizeableViewWithAnchoredBottom.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2613/battleroyale_iphone/trunk/Classes/ResizeableViewWithAnchoredBottom.h
+END
+BattleWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BattleWebViewController.h
+END
+ItemReceivedViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1467/battleroyale_iphone/trunk/Classes/ItemReceivedViewController.m
+END
+BattleViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BattleViewController.h
+END
+ResizeableViewWithAnchoredBottom.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2613/battleroyale_iphone/trunk/Classes/ResizeableViewWithAnchoredBottom.m
+END
+RewardRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/286/battleroyale_iphone/trunk/Classes/RewardRemoteCollection.h
+END
+BattleWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BattleWebViewController.m
+END
+BattleViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BattleViewController.m
+END
+AnimalTypeSelectionContainerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1145/battleroyale_iphone/trunk/Classes/AnimalTypeSelectionContainerController.h
+END
+BackgroundItemDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/630/battleroyale_iphone/trunk/Classes/BackgroundItemDetailViewController.h
+END
+RewardRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/286/battleroyale_iphone/trunk/Classes/RewardRemoteCollection.m
+END
+BRStoreKitPaymentManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3556/battleroyale_iphone/trunk/Classes/BRStoreKitPaymentManager.h
+END
+AnimalTypeSelectionContainerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/AnimalTypeSelectionContainerController.m
+END
+BackgroundItemDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/849/battleroyale_iphone/trunk/Classes/BackgroundItemDetailViewController.m
+END
+HelpWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/HelpWebViewController.h
+END
+BRStoreKitPaymentManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3556/battleroyale_iphone/trunk/Classes/BRStoreKitPaymentManager.m
+END
+TopAnimalTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1452/battleroyale_iphone/trunk/Classes/TopAnimalTableViewCell.h
+END
+Achievement.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/644/battleroyale_iphone/trunk/Classes/Achievement.h
+END
+UserAnimalsTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1857/battleroyale_iphone/trunk/Classes/UserAnimalsTableViewController.h
+END
+HelpWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1857/battleroyale_iphone/trunk/Classes/HelpWebViewController.m
+END
+ProtagonistAnimal.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ProtagonistAnimal.h
+END
+TopAnimalTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1468/battleroyale_iphone/trunk/Classes/TopAnimalTableViewCell.m
+END
+Achievement.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/644/battleroyale_iphone/trunk/Classes/Achievement.m
+END
+UserAnimalsTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1857/battleroyale_iphone/trunk/Classes/UserAnimalsTableViewController.m
+END
+ProtagonistAnimal.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ProtagonistAnimal.m
+END
+AnimalTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1452/battleroyale_iphone/trunk/Classes/AnimalTableViewCell.h
+END
+CommentTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/390/battleroyale_iphone/trunk/Classes/CommentTableViewCell.h
+END
+ItemTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemTableViewController.h
+END
+NeedsMoneyViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1380/battleroyale_iphone/trunk/Classes/NeedsMoneyViewController.h
+END
+RewardOfferViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/RewardOfferViewController.h
+END
+AnimalTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1452/battleroyale_iphone/trunk/Classes/AnimalTableViewCell.m
+END
+InviteOptionsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2544/battleroyale_iphone/trunk/Classes/InviteOptionsViewController.h
+END
+CommentTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1188/battleroyale_iphone/trunk/Classes/CommentTableViewCell.m
+END
+BankViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/BankViewController.h
+END
+ItemTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemTableViewController.m
+END
+NeedsMoneyViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2610/battleroyale_iphone/trunk/Classes/NeedsMoneyViewController.m
+END
+RewardOfferViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3532/battleroyale_iphone/trunk/Classes/RewardOfferViewController.m
+END
+ChallengerTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/268/battleroyale_iphone/trunk/Classes/ChallengerTableViewController.h
+END
+ItemDetailWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemDetailWebViewController.h
+END
+BankViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2622/battleroyale_iphone/trunk/Classes/BankViewController.m
+END
+ChallengerTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1649/battleroyale_iphone/trunk/Classes/ChallengerTableViewController.m
+END
+CheckableContactTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2574/battleroyale_iphone/trunk/Classes/CheckableContactTableViewCell.h
+END
+SpellItemDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1697/battleroyale_iphone/trunk/Classes/SpellItemDetailViewController.h
+END
+ItemDetailWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemDetailWebViewController.m
+END
+AnimalTypeDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/AnimalTypeDetailViewController.h
+END
+CheckableContactTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2574/battleroyale_iphone/trunk/Classes/CheckableContactTableViewCell.m
+END
+SpellItemDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1873/battleroyale_iphone/trunk/Classes/SpellItemDetailViewController.m
+END
+BRSROfferViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1061/battleroyale_iphone/trunk/Classes/BRSROfferViewController.h
+END
+AnimalTypeDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/833/battleroyale_iphone/trunk/Classes/AnimalTypeDetailViewController.m
+END
+BRSROfferViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1061/battleroyale_iphone/trunk/Classes/BRSROfferViewController.m
+END
+BRRestClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4617/battleroyale_iphone/trunk/Classes/BRRestClient.h
+END
+FriendCodeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2590/battleroyale_iphone/trunk/Classes/FriendCodeViewController.h
+END
+Animal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2622/battleroyale_iphone/trunk/Classes/Animal.h
+END
+FacebookFriendTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/818/battleroyale_iphone/trunk/Classes/FacebookFriendTableViewCell.h
+END
+BRRestClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4750/battleroyale_iphone/trunk/Classes/BRRestClient.m
+END
+FriendCodeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2628/battleroyale_iphone/trunk/Classes/FriendCodeViewController.m
+END
+Animal.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/Animal.m
+END
+AnimalTypeTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/818/battleroyale_iphone/trunk/Classes/AnimalTypeTableViewCell.h
+END
+FacebookFriendTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/820/battleroyale_iphone/trunk/Classes/FacebookFriendTableViewCell.m
+END
+BattleRanViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/618/battleroyale_iphone/trunk/Classes/BattleRanViewController.h
+END
+AnimalTypeTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1537/battleroyale_iphone/trunk/Classes/AnimalTypeTableViewCell.m
+END
+BattleLostViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/battleroyale_iphone/trunk/Classes/BattleLostViewController.h
+END
+PostJobActionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2613/battleroyale_iphone/trunk/Classes/PostJobActionViewController.h
+END
+BattleRanViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1380/battleroyale_iphone/trunk/Classes/BattleRanViewController.m
+END
+BattleLostViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1380/battleroyale_iphone/trunk/Classes/BattleLostViewController.m
+END
+PostJobActionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2632/battleroyale_iphone/trunk/Classes/PostJobActionViewController.m
+END
+Post.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/386/battleroyale_iphone/trunk/Classes/Post.h
+END
+Post.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/386/battleroyale_iphone/trunk/Classes/Post.m
+END
+UserAnimalsTableContainerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1137/battleroyale_iphone/trunk/Classes/UserAnimalsTableContainerViewController.h
+END
+NewMassCommentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/647/battleroyale_iphone/trunk/Classes/NewMassCommentViewController.h
+END
+ItemTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/818/battleroyale_iphone/trunk/Classes/ItemTableViewCell.h
+END
+UserAnimalsTableContainerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1467/battleroyale_iphone/trunk/Classes/UserAnimalsTableContainerViewController.m
+END
+UserAnimalTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/362/battleroyale_iphone/trunk/Classes/UserAnimalTableViewCell.h
+END
+NewMassCommentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2611/battleroyale_iphone/trunk/Classes/NewMassCommentViewController.m
+END
+ItemTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ItemTableViewCell.m
+END
+BRSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BRSession.h
+END
+UserAnimalTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1268/battleroyale_iphone/trunk/Classes/UserAnimalTableViewCell.m
+END
+BRSession.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4572/battleroyale_iphone/trunk/Classes/BRSession.m
+END
+BuyAmountViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BuyAmountViewController.h
+END
+EquipmentSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1649/battleroyale_iphone/trunk/Classes/EquipmentSet.h
+END
+FeedbackViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/FeedbackViewController.h
+END
+BRDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BRDialog.h
+END
+BattleRoyale.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1136/battleroyale_iphone/trunk/Classes/BattleRoyale.h
+END
+BuyAmountViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BuyAmountViewController.m
+END
+EquipmentSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1649/battleroyale_iphone/trunk/Classes/EquipmentSet.m
+END
+FeedbackViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2630/battleroyale_iphone/trunk/Classes/FeedbackViewController.m
+END
+BRDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/BRDialog.m
+END
+InviteContactsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2577/battleroyale_iphone/trunk/Classes/InviteContactsViewController.h
+END
+BattleItemTableViewContainerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2587/battleroyale_iphone/trunk/Classes/BattleItemTableViewContainerViewController.h
+END
+InviteContactsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/InviteContactsViewController.m
+END
+RemoteImageViewWithFileStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/RemoteImageViewWithFileStore.h
+END
+BattleItemTableViewContainerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2587/battleroyale_iphone/trunk/Classes/BattleItemTableViewContainerViewController.m
+END
+TopAnimalsWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/TopAnimalsWebViewController.h
+END
+RemoteImageViewWithFileStore.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/RemoteImageViewWithFileStore.m
+END
+TopAnimalsWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/TopAnimalsWebViewController.m
+END
+ShopEquipmentSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ShopEquipmentSet.h
+END
+AchievementRemoteCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/306/battleroyale_iphone/trunk/Classes/AchievementRemoteCollection.h
+END
+JobTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/256/battleroyale_iphone/trunk/Classes/JobTableViewController.h
+END
+ShopEquipmentSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4505/battleroyale_iphone/trunk/Classes/ShopEquipmentSet.m
+END
+AchievementRemoteCollection.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/306/battleroyale_iphone/trunk/Classes/AchievementRemoteCollection.m
+END
+JobTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2598/battleroyale_iphone/trunk/Classes/JobTableViewController.m
+END
+AbstractAnimalRemoteCollectionStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/649/battleroyale_iphone/trunk/Classes/AbstractAnimalRemoteCollectionStore.h
+END
+AchievementTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1136/battleroyale_iphone/trunk/Classes/AchievementTableViewController.h
+END
+AbstractAnimalRemoteCollectionStore.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/806/battleroyale_iphone/trunk/Classes/AbstractAnimalRemoteCollectionStore.m
+END
+AchievementTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1268/battleroyale_iphone/trunk/Classes/AchievementTableViewController.m
+END
+NeedsPosseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1380/battleroyale_iphone/trunk/Classes/NeedsPosseViewController.h
+END
+NeedsPosseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2610/battleroyale_iphone/trunk/Classes/NeedsPosseViewController.m
+END
+BRSRTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1085/battleroyale_iphone/trunk/Classes/BRSRTableViewController.h
+END
+ExternalAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/591/battleroyale_iphone/trunk/Classes/ExternalAction.h
+END
+BRRestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2603/battleroyale_iphone/trunk/Classes/BRRestOperation.h
+END
+BRSRTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1061/battleroyale_iphone/trunk/Classes/BRSRTableViewController.m
+END
+HomeActionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1310/battleroyale_iphone/trunk/Classes/HomeActionViewController.h
+END
+ExternalAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/591/battleroyale_iphone/trunk/Classes/ExternalAction.m
+END
+BRRestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/351/battleroyale_iphone/trunk/Classes/BRRestOperation.m
+END
+GrowPosseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2613/battleroyale_iphone/trunk/Classes/GrowPosseViewController.h
+END

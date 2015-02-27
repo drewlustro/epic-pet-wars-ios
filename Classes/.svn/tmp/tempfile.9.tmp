@@ -1,0 +1,213 @@
+/*
+ *  BRGlobal.h
+ *  battleroyale
+ *
+ *  Created by Amit Matani on 4/20/09.
+ *  Copyright 2009 Miraphonic, Inc. All rights reserved.
+ *
+ */
+
+#import "Mega/Mega.h"
+#import "SoundManager.h"
+#import "BRMegaViewControllerAdditions.h"
+
+#import <UIKit/UIKit.h>
+
+#define DREW_DEV
+//#define AMIT_DEV
+
+// set the api key based on the version
+#ifdef EpicPetWarsLite
+
+#define API_KEY @"48bf0d77585a84832f1809a94917cb43"
+#define APP_SECRET @"823eeb3be42fd78d3d37e81b0883716b"
+
+#elif EPWMoost
+
+#define API_KEY @"0736c688dde64969036f360bbe4c735c"
+#define APP_SECRET @"97bad4158a5964661c36ec0843e8ba98"
+
+#elif EPWCute
+
+#define API_KEY @"54c433ee0fa5691453e355538e406fd0"
+#define APP_SECRET @"43013945b1304ac2c7d496c2eff7bddb"
+
+#elif EPWEvil
+
+#define API_KEY @"9981d023850000d87e7fe4a2b0d06038"
+#define APP_SECRET @"24fd1a14851a4ab49d00024988c9c3c3"
+
+#elif EPWBizarro
+
+#define API_KEY @"493ae03baaba3c5139ae267a42ee4c65"
+#define APP_SECRET @"c8db72e2f9414afe499b2e7d40bc9ae5"
+
+#elif EPWDeepSea
+
+#define API_KEY @"d732fbeb584b78e21aa28c4b9c20b237"
+#define APP_SECRET @"f211b0e9f3de6ca23b50716cdb0f0d86"
+
+#elif EPWDino
+
+#define API_KEY @"5b07fd0a6ea58368b927a1b2bc23085c"
+#define APP_SECRET @"66caa01c42f47b95e019db596f59cc61"
+
+#elif EPWBirds
+
+#define API_KEY @"7d5786b4f4c7926a14567939da2a1e2b"
+#define APP_SECRET @"4f2cde517e4aaaea967b3864dc391c39"
+
+#elif EPWBots
+
+#define API_KEY @"6471fa6b00d77bff7eddafe8f13a618a"
+#define APP_SECRET @"46ba9d936af9e643052ebffbbdc0b89d"
+
+#elif EPWXpansion
+
+#define API_KEY @"471e3d17a421a2f0b8f1aebed6408cdd"
+#define APP_SECRET @"d3403bf32d7d8a7e5b2538148a534778"
+
+#elif EPWShark
+
+#define API_KEY @"7c309531b6c89623820b540a0b1af346"
+#define APP_SECRET @"f084e04047f3f9612a1a9f88a8fe3c59"
+
+#elif EPWPolarstein
+
+#define API_KEY @"ec964e6a52ebce4bdc484763b7ecd19e"
+#define APP_SECRET @"aa80414c78d9a936c55ef26697c677c4"
+
+#elif EPWTaztan
+
+#define API_KEY @"8e7b03f5a85a4f3bc2654f75e85d667f"
+#define APP_SECRET @"d8b713370396691be1dc0b958ca97cab"
+
+#elif EPWFailWhale
+
+#define API_KEY @"566dc298847a421c2fef8c9dd7dfd7f4"
+#define APP_SECRET @"0a822b6a671a73f9b1887121a0f4ca99"
+
+#elif EPWHal
+
+#define API_KEY @"32914df6afea7d7fe4f45ef5e2f65729"
+#define APP_SECRET @"f69850245b2fa420e35d1df6781c8d89"
+
+#elif EPWCharm
+
+#define API_KEY @"3c9ab4c4efe2ea00fd232ff3886b68c4"
+#define APP_SECRET @"2b578cc5a22e9d0bf5f7c3d3fd4e2357"
+
+#elif EPWCorrupt
+
+#define API_KEY @"d4c938478486d7de3465cf5f3ebda855"
+#define APP_SECRET @"5afe672b5f9398de02334d3ac3e33ed9"
+
+#elif EPWHeavyweights
+
+#define API_KEY @"eac1b8ac182e9e8c6f0c4b2ad8086c64"
+#define APP_SECRET @"8934c75b5cfb7b50f8c3b3b4d753ac51"
+
+#elif EPWWild
+
+#define API_KEY @"20535856df01cd0b62d5c0a4346154d9"
+#define APP_SECRET @"d5efa8ff51374f7e73d13055b18fa86f"
+
+#elif EPWZoo
+
+#define API_KEY @"fab2f4dc000ec3d697a7c53437a4adba"
+#define APP_SECRET @"8ce28e639726c5870726d8b673153083"
+
+#elif EPWUltimate
+
+#define API_KEY @"ef9eec7a249a9f550283d7acc3fbb9f5"
+#define APP_SECRET @"29ace3bf3e2bdca4d839d4d8e337217a"
+
+#elif EPWUltimate400
+
+#define API_KEY @"5885ae6d9463e33455ac58e73c45d6e3"
+#define APP_SECRET @"3ee6de13838fddae2f81736b594b1c82"
+
+#elif EPWUltimateIndigo750
+
+#define API_KEY @"6aedd2f34e6752caa97513dfc3d8926d"
+#define APP_SECRET @"58847efee903157de2ca5cf6ccb72cfe"
+
+#elif EPWUltimate900
+
+#define API_KEY @"cae8025c9ef916db3c13da0dcf4f2413"
+#define APP_SECRET @"c8c0f91963acc60aa129d7000f81e066"
+
+#elif EPWUltimateCrimson75
+
+#define API_KEY @"0740179e2007c767321e133a51305565"
+#define APP_SECRET @"cc7d66434dcdf55f28770a475c51cde7"
+
+#elif EPWUltimateCrimson400
+
+#define API_KEY @"c9d9302db671b0e91cfb74e675d69b6f"
+#define APP_SECRET @"f2d72821143587d89ac15db31f597f10"
+
+#elif EPWUltimateCrimson750
+
+#define API_KEY @"1b0028b1cc158e386a173f6b89cf5416"
+#define APP_SECRET @"a4d74562d764405d5aaa7c3d0e8abb0f"
+
+#elif EPWUltimateCrimson1000
+
+#define API_KEY @"d21feee97ee8dbda3105461e5a89e8a3"
+#define APP_SECRET @"675dc8e4ddfdc120124f2e629b1c40db"
+
+#elif EPWUltimateMaster5000
+
+#define API_KEY @"dfd8769c75e552e7100d98fbeb617e90"
+#define APP_SECRET @"7e8e41d605063e1718250a2db48e495f"
+
+#elif EPWAmoebusMTX
+
+#define API_KEY @"1652d9b6b3b1822dc1746bacd05d06a0"
+#define APP_SECRET @"84a0d511ab28d44c1ae244e6423b018f"
+
+#elif EPWAnglarisMTX
+
+#define API_KEY @"c6b151252c03890ef355e39857a6284a"
+#define APP_SECRET @"2ef620fe73bb650f2fea4958c310a957"
+
+#elif EPWLuckyMTX
+
+#define API_KEY @"7ec530b306e6322df4030398e68e854f"
+#define APP_SECRET @"8ebb373c17ee31d0c31820813201e03c"
+
+#elif EPWOddurMTX
+
+#define API_KEY @"058fb54eec2be850e8cb49dd86b323f2"
+#define APP_SECRET @"ad047356f851b96546729c6ae133c1b6"
+
+#elif EPWPidgitMTX
+
+#define API_KEY @"195437be55ead58ebc4627ed9800c5ca"
+#define APP_SECRET @"6541fef8389d5af320dbb37537f06f68"
+
+#elif EPWSkullPandaMTX
+
+#define API_KEY @"5d9085bb6f3c16ed607f2df92241f836"
+#define APP_SECRET @"a5da884e61f69912823ad988504e5acf"
+
+#elif EPWSchleepyMTX
+
+#define API_KEY @"1d2bbd9dbb345c7a52683c459fa49bf0"
+#define APP_SECRET @"5a756b1b7b66841bf557572dac64dca2"
+
+#elif EPWWalradorMTX
+
+#define API_KEY @"b7d5c7b2b261cfc9c5db78cfff715e39"
+#define APP_SECRET @"030a5a69391a5856d3c7f57374ae33df"
+
+#endif
+
+// amit dev
+//#define FB_API_KEY @"7441d63983143eb48ceb349868cc6b0b"
+//#define FB_APP_SECRET @"3968a5dc88d5480f95234f4cd87663a9"
+
+// production
+#define FB_API_KEY @"4c6914069076080d906a74285edf72d1"
+#define FB_APP_SECRET @"1d2a227066794c82fc38da2e5df35e6c"

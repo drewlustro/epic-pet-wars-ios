@@ -1,0 +1,11 @@
+Bulletin
+30
+comment_getBulletins
+
+bulletin_id
+sender_uid
+sender_name
+sender_animal_id
+text
+created
+

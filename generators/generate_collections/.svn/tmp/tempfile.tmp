@@ -1,0 +1,105 @@
+<?
+<<<<<<< .mine
+
+/*
+$version = "1.1";
+=======
+/*$version = "1.1";
+>>>>>>> .r2657
+$packs = array(
+  array("WW0Lite", "WW0Lite"),
+  array("WW0Amazon", "WW0Amazon"),
+  array("WW0Spartan", "WW0Spartan"),
+  array("WW0Pirate", "WW0Pirate"),
+  array("WW0Viking", "WW0Viking"),
+  array("WW0Ultimate75", "WW0Ultimate75"),
+  array("WW0Ultimate400", "WW0Ultimate400"),
+  array("WW0Ultimate900", "WW0Ultimate900"),
+);*/
+<<<<<<< .mine
+*/
+$version = "1.5";
+=======
+
+$version = "1.5";
+>>>>>>> .r2657
+$packs = array(
+  array("EpicPetWarsLite", "EpicPetWars"),
+  array("EPWMoost", "epw Moost"),
+  array("EPWCute", "epw Cute"),
+  array("EPWEvil", "epw Evil"),
+  array("EPWBizarro", "epw Bizarro"),
+  array("EPWDeepSea", "epw Deep Sea"),
+  array("EPWDino", "epw Dino"),
+  array("EPWBirds", "epw Birds"),
+  array("EPWBots", "epw Bots"),
+  array("EPWXpansion", "epw Xpansion"),
+  array("EPWShark", "epw Shark"),
+<<<<<<< .mine
+  // new free packs
+  array("EPWPolarstein", "epw Polarstein"),
+  array("EPWTaztan", "epw Taztan"),
+  array("EPWFailWhale", "epw Fail Whale"),
+  array("EPWHal", "epw Hal"),
+  // new 4-pet packs
+  array("EPWCharm", "epw Charm"),
+  array("EPWCorrupt", "epw Corrupt"),
+  array("EPWHeavyweights", "epw Heavyweights"),
+  array("EPWWild", "epw Wild"),
+  array("EPWZoo", "epw Zoo"),
+  // updated ultimate --> ultimate indigo
+  array("EPWUltimateIndigo75", "epw Ultimate Indigo 75"),
+  array("EPWUltimateIndigo400", "epw Ultimate Indigo 400"),
+  array("EPWUltimateIndigo750", "epw Ultimate Indigo 750"),
+  array("EPWUltimateIndigo1000", "epw Ultimate Indigo 1000"),
+  // new ultimates Crimson
+  array("EPWUltimateCrimson75", "epw Ultimate Crimson 75"),
+  array("EPWUltimateCrimson400", "epw Ultimate Crimson 400"),
+  array("EPWUltimateCrimson750", "epw Ultimate Crimson 750"),
+  array("EPWUltimateCrimson1000", "epw Ultimate Crimson 1000"),
+  // insane ultimate
+  array("EPWUltimateMaster5000", "epw Ultimate Master 5000"),
+);
+=======
+  array("EPWUltimate", "epw Ultimate"),
+  array("EPWUltimate400", "epw Ultimate 400"),
+  array("EPWUltimate900", "epw Ultimate 900"),
+);
+>>>>>>> .r2657
+
+
+$api_keys = array();
+$api_secrets = array();
+
+function display_obj_c($name, $api_key, $api_secret, $first) {
+  if ($first) {
+    echo "#ifdef ";
+  } else {
+    echo "#elif ";
+  }
+  
+  echo "$name\n\n#define API_KEY @\"$api_key\"\n#define APP_SECRET @\"$api_secret\"\n\n";
+}
+
+$first = true;
+foreach ($packs as $pack) {
+  $api_key = md5($version . $pack[0] . $pack[1] . microtime() . rand());
+  $api_secret = md5($version . $pack[1] . $pack[0] . microtime() . rand());
+  
+  $api_keys[] = $api_key;
+  $api_secrets[] = $api_secret;
+  
+  display_obj_c($pack[0], $api_key, $api_secret, $first);
+  
+  $first = false;
+}
+
+echo "#endif\n\n";
+
+for ($i = 0; $i < count($packs); $i += 1) {
+  $api_key = $api_keys[$i];
+  $api_secret = $api_secrets[$i];
+  $pack = $packs[$i][1];
+  
+  echo "\"$api_key\" => array(\"$api_secret\", \"$pack\", \"$version\"),\n";
+}
